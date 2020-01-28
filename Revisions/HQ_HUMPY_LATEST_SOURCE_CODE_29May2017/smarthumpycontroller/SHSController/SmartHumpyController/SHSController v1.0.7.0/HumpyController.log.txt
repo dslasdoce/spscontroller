@@ -1,0 +1,118 @@
+13/05/2016 11:53:45 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 499
+13/05/2016 11:59:58 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 499
+13/05/2016 12:00:17 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 499
+13/05/2016 12:01:08 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 499
+13/05/2016 12:03:01 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 499
+16/05/2016 3:21:05 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 522
+16/05/2016 3:22:49 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 523
+16/05/2016 3:25:59 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 524
+16/05/2016 3:31:46 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 524
+16/05/2016 3:33:34 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 526
+16/05/2016 3:34:16 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 526
+16/05/2016 3:34:35 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 526
+16/05/2016 3:36:15 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 527
+16/05/2016 3:38:28 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 527
+16/05/2016 3:49:20 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 531
+16/05/2016 3:59:55 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 533
+16/05/2016 4:36:27 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 530
+16/05/2016 4:58:00 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 530
+16/05/2016 4:59:00 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 530
+16/05/2016 5:22:24 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 531
+16/05/2016 5:25:36 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 531
+16/05/2016 5:26:47 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 531
+16/05/2016 5:29:07 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 531
+16/05/2016 5:30:33 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 531
+16/05/2016 5:32:56 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 531
+16/05/2016 5:34:52 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 531
+16/05/2016 5:36:22 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 531
+16/05/2016 5:37:53 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 5:40:11 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 5:41:30 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 5:42:59 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 5:44:46 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 5:51:27 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 5:52:26 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 5:54:12 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 5:55:41 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 5:57:29 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 6:00:15 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 534
+16/05/2016 6:04:18 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 534
+16/05/2016 6:04:41 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected

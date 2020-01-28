@@ -1,0 +1,212 @@
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\ISM.exe.config
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\ISM.exe
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\ISM.pdb
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\ISMComponents.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\ISMDAL.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\ISMDAL.pdb
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\ISMComponents.pdb
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ResolveAssemblyReference.cache
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Forms.FrmAboutISM.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Forms.FrmLabel.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Forms.FrmPWordChange.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Forms.FrmStockCodeSearcher.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Forms.FrmStockTake.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Forms.FrmException.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Forms.FrmStockTakeLocTree.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Forms.FrmStockTakeSealConfirm.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.FrmMain.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.FrmLogin.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.LocationPortal.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.MonitorPortal.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.LocationSearch.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.MonitorAlarms.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.LocationAdmin.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.MonitorDevice.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.MonitorException.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.MonitorInterface.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.ISMBaseWorkSpace.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.LocationTree.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.RptFrmActiveReaderActy.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.RptFrmAlarmStatus.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.RptFrmSealStatus.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.RptFrmStockSearch.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.RptFrmStockTake.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.RptFrmUserActivity.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.UserCreate.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.MonitorUser.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.UserDeactivate.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.UserUpdate.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.StockReceiveCreateTask.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.StockIssueCreateTask.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.StockMoveCreateTask.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.StockTakeCreateTask.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.MonitorTask.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.TraceCreateTask.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Properties.Resources.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Reports.RptAlarmStatus.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Reports.RptSealStatus.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Reports.RptStockTake.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Reports.RptUserActivity.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.csproj.GenerateResource.Cache
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.exe.licenses
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.exe
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.pdb
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.ISMDatabaseBackup.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.RptMILISStockTake.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.TaskMgnt.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.UpdateCatalogue.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\msmdvbanet.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.Charts.v10.1.Core.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.Data.v10.1.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.RichEdit.v10.1.Core.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.Utils.v10.1.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraBars.v10.1.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraCharts.v10.1.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraEditors.v10.1.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraGrid.v10.1.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraLayout.v10.1.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraNavBar.v10.1.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraPivotGrid.v10.1.Core.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraPivotGrid.v10.1.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraPrinting.v10.1.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraReports.v10.1.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraRichEdit.v10.1.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraScheduler.v10.1.Core.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraScheduler.v10.1.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraTreeList.v10.1.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraVerticalGrid.v10.1.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\System.Data.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\System.Deployment.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\System.Design.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\System.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\System.Drawing.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\System.Management.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\System.Web.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\System.Windows.Forms.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\System.Xml.dll
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraVerticalGrid.v10.1.xml
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraRichEdit.v10.1.xml
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraCharts.v10.1.xml
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraPivotGrid.v10.1.xml
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraEditors.v10.1.xml
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraReports.v10.1.xml
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraScheduler.v10.1.xml
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.RichEdit.v10.1.Core.xml
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraScheduler.v10.1.Core.xml
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraLayout.v10.1.xml
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraBars.v10.1.xml
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.Utils.v10.1.xml
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraPivotGrid.v10.1.Core.xml
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraTreeList.v10.1.xml
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraNavBar.v10.1.xml
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.Data.v10.1.xml
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraGrid.v10.1.xml
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\DevExpress.XtraPrinting.v10.1.xml
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Forms.FrmAlarmExpMsg.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Forms.FrmWitnessLogin.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.AlarmExpManagement.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.ISMServiceMonitor.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.RptFrmIssue.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.RptFrmStock.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.RptFrmStockHierarchical.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Reports.RptIssue.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Reports.RptItemHierarchical.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Reports.RptLocationHierarchical.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Reports.RptStock.resources
+C:\Jasper Working Field\ISM\ISMProjects\ISM\bin\Debug\MILISStockNoTemplate.xls
+C:\Jasper Working Field\ISM\ISMProjects\ISM\obj\Debug\ISM.Modules.StockManage.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\ISM.exe.config
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.exe
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.pdb
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\MILISStockNoTemplate.xls
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\ISM.exe
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\ISM.pdb
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\ISMComponents.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\ISMDAL.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\System.Data.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\System.Deployment.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\System.Design.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\System.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\System.Drawing.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\System.Management.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\System.Web.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\System.Windows.Forms.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\System.Xml.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\ISMComponents.pdb
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\ISMDAL.pdb
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Forms.FrmAboutISM.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Forms.FrmAlarmExpMsg.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Forms.FrmLabel.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Forms.FrmPWordChange.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Forms.FrmStockCodeSearcher.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Forms.FrmStockTake.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Forms.FrmException.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Forms.FrmStockTakeLocTree.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Forms.FrmStockTakeSealConfirm.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Forms.FrmWitnessLogin.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.FrmMain.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.FrmLogin.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.AlarmExpManagement.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.ISMDatabaseBackup.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.ISMServiceMonitor.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.LocationPortal.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.MonitorPortal.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.LocationSearch.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.MonitorAlarms.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.LocationAdmin.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.MonitorDevice.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.MonitorException.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.MonitorInterface.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.ISMBaseWorkSpace.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.LocationTree.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.RptFrmActiveReaderActy.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.RptFrmAlarmStatus.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.RptFrmIssue.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.RptFrmSealStatus.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.RptFrmStock.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.RptFrmStockHierarchical.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.RptFrmStockSearch.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.RptFrmStockTake.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.RptFrmUserActivity.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.RptMILISStockTake.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.StockManage.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.TaskMgnt.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.UpdateCatalogue.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.UserCreate.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.MonitorUser.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.UserDeactivate.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.UserUpdate.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.StockReceiveCreateTask.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.StockIssueCreateTask.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.StockMoveCreateTask.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.StockTakeCreateTask.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.MonitorTask.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Modules.TraceCreateTask.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Properties.Resources.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Reports.RptIssue.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Reports.RptItemHierarchical.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Reports.RptAlarmStatus.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Reports.RptLocationHierarchical.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Reports.RptSealStatus.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Reports.RptStock.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Reports.RptStockTake.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.Reports.RptUserActivity.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.csproj.GenerateResource.Cache
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.exe.licenses
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Debug\ISM.csprojResolveAssemblyReference.cache
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Debug\SHSHQ.exe.config

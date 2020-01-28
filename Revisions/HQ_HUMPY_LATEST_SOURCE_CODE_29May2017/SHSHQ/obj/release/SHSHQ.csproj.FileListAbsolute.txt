@@ -1,0 +1,621 @@
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\MILISStockNoTemplate.xls
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\SHSHQ.exe.config
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\SHSHQ.exe
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\SHSHQ.pdb
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.Charts.v10.1.Core.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.Data.v10.1.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.Design.v10.1.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.RichEdit.v10.1.Core.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.Utils.v10.1.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.Web.v10.1.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraBars.v10.1.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraCharts.v10.1.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraEditors.v10.1.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraGrid.v10.1.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraLayout.v10.1.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraNavBar.v10.1.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraPivotGrid.v10.1.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraPrinting.v10.1.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraReports.v10.1.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraRichEdit.v10.1.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraScheduler.v10.1.Core.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraScheduler.v10.1.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraTreeList.v10.1.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraVerticalGrid.v10.1.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\Impinj.OctaneSdk.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\ISMComponents.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\ISMDAL.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\LLRP.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\LLRP.Impinj.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\Microsoft.SqlServer.ConnectionInfo.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\Microsoft.SqlServer.Smo.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\Microsoft.SqlServer.SmoExtended.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\Microsoft.SqlServer.SqlEnum.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\System.Data.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\System.Deployment.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\System.Design.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\System.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\System.Drawing.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\System.Management.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\System.Web.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\System.Windows.Forms.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\System.Xml.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\ISMComponents.pdb
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\ISMComponents.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\ISMDAL.pdb
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.Data.v10.1.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.RichEdit.v10.1.Core.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.Utils.v10.1.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.Web.v10.1.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraBars.v10.1.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraCharts.v10.1.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraEditors.v10.1.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraGrid.v10.1.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraLayout.v10.1.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraNavBar.v10.1.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraPivotGrid.v10.1.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraPrinting.v10.1.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraReports.v10.1.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraRichEdit.v10.1.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraScheduler.v10.1.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraScheduler.v10.1.Core.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraTreeList.v10.1.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\DevExpress.XtraVerticalGrid.v10.1.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\SHSHQ.csprojResolveAssemblyReference.cache
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Forms.FrmAboutSHS.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Forms.FrmAlarmExpMsg.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Forms.FrmLabel.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Forms.FrmPWordChange.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Forms.FrmStockCodeSearcher.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Forms.FrmStockTake.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Forms.FrmException.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Forms.FrmStockTakeLocTree.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Forms.FrmStockTakeSealConfirm.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Forms.FrmWitnessLogin.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\SHSHQ.FrmMain.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.FrmLogin.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.AlarmExpManagement.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.ISMDatabaseBackup.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.ISMServiceMonitor.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.LocationPortal.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.MonitorPortal.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.LocationSearch.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.MonitorAlarms.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.LocationAdmin.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.MonitorDevice.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.MonitorException.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.MonitorInterface.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.ISMBaseWorkSpace.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.LocationTree.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.RptFrmActiveReaderActy.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.RptFrmAlarmStatus.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.RptFrmIssue.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.RptFrmSealStatus.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.RptFrmStock.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.RptFrmStockHierarchical.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.RptFrmStockSearch.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.RptFrmStockTake.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.RptFrmUserActivity.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.RptMILISStockTake.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.StockManage.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.TaskMgnt.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.UpdateCatalogue.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.UserCreate.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.MonitorUser.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.UserDeactivate.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.UserUpdate.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.StockReceiveCreateTask.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.StockIssueCreateTask.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.StockMoveCreateTask.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.StockTakeCreateTask.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.MonitorTask.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.TraceCreateTask.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\SHSHQ.Properties.Resources.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Reports.RptIssue.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Reports.RptItemHierarchical.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Reports.RptAlarmStatus.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Reports.RptLocationHierarchical.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Reports.RptSealStatus.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Reports.RptStock.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Reports.RptStockTake.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Reports.RptUserActivity.resources
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\SHSHQ.csproj.GenerateResource.Cache
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\SHSHQ.exe.licenses
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\SHSHQ.exe
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\SHSHQ.pdb
+C:\JasperWorkingField\AMMO\HQ\ISM\bin\Release\msmdvbanet.dll
+C:\JasperWorkingField\AMMO\HQ\ISM\obj\Release\ISM.Modules.LocationPortalUpdate.resources
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\SHSHQ.exe.config
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.exe
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.pdb
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\MILISStockNoTemplate.xls
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\SHSHQ.exe
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\SHSHQ.pdb
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Charts.v15.2.Core.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.CodeParser.v15.2.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Data.v15.2.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Design.v15.2.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Office.v15.2.Core.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.PivotGrid.v15.2.Core.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Printing.v15.2.Core.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.RichEdit.v15.2.Core.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Sparkline.v15.2.Core.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Utils.v15.2.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Utils.v15.2.UI.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Web.v15.2.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraBars.v15.2.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraCharts.v15.2.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraCharts.v15.2.Wizard.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraEditors.v15.2.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraGrid.v15.2.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraLayout.v15.2.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraNavBar.v15.2.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraPivotGrid.v15.2.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraPrinting.v15.2.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraReports.v15.2.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraReports.v15.2.Extensions.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraRichEdit.v15.2.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraScheduler.v15.2.Core.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraScheduler.v15.2.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraScheduler.v15.2.Reporting.Extensions.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraTreeList.v15.2.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraVerticalGrid.v15.2.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\Impinj.OctaneSdk.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\LLRP.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\LLRP.Impinj.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\Microsoft.SqlServer.Smo.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\Microsoft.SqlServer.SmoExtended.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\Microsoft.SqlServer.SqlEnum.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\msmdvbanet.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\System.Data.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\System.Deployment.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\System.Design.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\System.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\System.Drawing.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\System.Management.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\System.Web.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\System.Windows.Forms.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\System.Xml.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Printing.v15.2.Core.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Data.v15.2.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Office.v15.2.Core.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.RichEdit.v15.2.Core.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Utils.v15.2.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Web.v15.2.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraBars.v15.2.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraCharts.v15.2.Wizard.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraCharts.v15.2.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraEditors.v15.2.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraGrid.v15.2.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraLayout.v15.2.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraNavBar.v15.2.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraPivotGrid.v15.2.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraPrinting.v15.2.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.PivotGrid.v15.2.Core.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Sparkline.v15.2.Core.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Utils.v15.2.UI.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraReports.v15.2.Extensions.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraReports.v15.2.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraRichEdit.v15.2.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraScheduler.v15.2.Reporting.Extensions.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraScheduler.v15.2.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraScheduler.v15.2.Core.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraTreeList.v15.2.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraVerticalGrid.v15.2.xml
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.Data.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.Data.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.Data.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.Data.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.Office.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.Office.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.Office.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.Office.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.Utils.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.Utils.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.Utils.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.Utils.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.Web.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.Web.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.Web.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.Web.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraBars.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraBars.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraBars.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraBars.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraReports.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraReports.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraReports.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraReports.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Forms.FrmAboutSHS.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Forms.FrmLabel.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Forms.FrmPWordChange.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Forms.FrmStockCodeSearcher.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Forms.FrmStockTake.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Forms.FrmException.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Forms.FrmStockTakeLocTree.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Forms.FrmStockTakeSealConfirm.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Forms.FrmWitnessLogin.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.FrmMain.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.FrmLogin.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.AlarmExpManagement.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.ISMDatabaseBackup.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.ISMServiceMonitor.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.LocationPortal.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.LocationPortalUpdate.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.MonitorPortal.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.LocationSearch.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.MonitorAlarms.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.LocationAdmin.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.MonitorDevice.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.MonitorException.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.MonitorInterface.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.ISMBaseWorkSpace.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.LocationTree.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptFrmActiveReaderActy.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptFrmAlarmStatus.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptFrmIssue.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptFrmSealStatus.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptFrmStock.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptFrmStockHierarchical.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptFrmStockSearch.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptFrmStockTake.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptFrmUserActivity.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptMILISStockTake.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.StockManage.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.TaskMgnt.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.UpdateCatalogue.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.UserCreate.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.MonitorUser.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.UserDeactivate.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.UserUpdate.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.StockReceiveCreateTask.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.StockIssueCreateTask.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.StockMoveCreateTask.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.StockTakeCreateTask.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.MonitorTask.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.TraceCreateTask.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.Properties.Resources.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Reports.RptIssue.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Reports.RptItemHierarchical.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Reports.RptAlarmStatus.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Reports.RptLocationHierarchical.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Reports.RptSealStatus.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Reports.RptStock.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Reports.RptStockTake.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Reports.RptUserActivity.resources
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.csproj.GenerateResource.Cache
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.exe.licenses
+D:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.csprojResolveAssemblyReference.cache
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\MILISStockNoTemplate.xls
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\SHSHQ.exe.config
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\SHSHQ.exe
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\SHSHQ.pdb
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\AMMO_BG_DLL.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Charts.v15.2.Core.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.CodeParser.v15.2.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Data.v15.2.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Design.v15.2.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Office.v15.2.Core.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.PivotGrid.v15.2.Core.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Printing.v15.2.Core.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.RichEdit.v15.2.Core.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Sparkline.v15.2.Core.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Utils.v15.2.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Utils.v15.2.UI.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Web.v15.2.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraBars.v15.2.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraCharts.v15.2.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraCharts.v15.2.Wizard.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraEditors.v15.2.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraGrid.v15.2.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraLayout.v15.2.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraNavBar.v15.2.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraPivotGrid.v15.2.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraPrinting.v15.2.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraReports.v15.2.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraReports.v15.2.Extensions.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraRichEdit.v15.2.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraScheduler.v15.2.Core.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraScheduler.v15.2.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraScheduler.v15.2.Reporting.Extensions.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraTreeList.v15.2.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraVerticalGrid.v15.2.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\Impinj.OctaneSdk.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\LLRP.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\LLRP.Impinj.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\Microsoft.SqlServer.Smo.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\Microsoft.SqlServer.SmoExtended.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\Microsoft.SqlServer.SqlEnum.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\System.Data.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\System.Deployment.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\System.Design.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\System.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\System.Drawing.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\System.Management.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\System.Web.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\System.Windows.Forms.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\System.Xml.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\office.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\AMMO_BG_DLL.pdb
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\AMMO_BG_DLL.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Printing.v15.2.Core.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Data.v15.2.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Office.v15.2.Core.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.RichEdit.v15.2.Core.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Utils.v15.2.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Web.v15.2.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraBars.v15.2.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraCharts.v15.2.Wizard.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraCharts.v15.2.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraEditors.v15.2.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraGrid.v15.2.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraLayout.v15.2.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraNavBar.v15.2.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraPivotGrid.v15.2.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraPrinting.v15.2.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.PivotGrid.v15.2.Core.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Sparkline.v15.2.Core.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.Utils.v15.2.UI.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraReports.v15.2.Extensions.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraReports.v15.2.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraRichEdit.v15.2.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraScheduler.v15.2.Reporting.Extensions.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraScheduler.v15.2.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraScheduler.v15.2.Core.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraTreeList.v15.2.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\DevExpress.XtraVerticalGrid.v15.2.xml
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.Data.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.Data.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.Data.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.Data.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.Office.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.Office.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.Office.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.Office.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.Utils.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.Utils.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.Utils.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.Utils.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.Web.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.Web.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.Web.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.Web.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraBars.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraBars.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraBars.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraBars.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraReports.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraReports.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraReports.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraReports.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraScheduler.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraScheduler.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraScheduler.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraScheduler.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\bin\Release\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Forms.FrmAboutSHS.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Forms.FrmLabel.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Forms.FrmPWordChange.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.Forms.frmSecurity.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Forms.FrmStockCodeSearcher.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Forms.FrmStockTake.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Forms.FrmException.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Forms.FrmStockTakeLocTree.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Forms.FrmStockTakeSealConfirm.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Forms.FrmWitnessLogin.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.FrmMain.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.FrmLogin.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.AlarmExpManagement.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.ISMDatabaseBackup.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.ISMServiceMonitor.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.LocationPortal.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.LocationPortalUpdate.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.MonitorPortal.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.LocationSearch.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.MonitorAlarms.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.LocationAdmin.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.MonitorDevice.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.MonitorException.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.MonitorInterface.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.ISMBaseWorkSpace.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.LocationTree.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.Modules.PinningStation.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptFrmActiveReaderActy.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptFrmAlarmStatus.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptFrmIssue.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptFrmSealStatus.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptFrmStock.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptFrmStockHierarchical.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptFrmStockSearch.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptFrmStockTake.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptFrmUserActivity.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.RptMILISStockTake.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.Modules.StationLogs.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.StockManage.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.TaskMgnt.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.UpdateCatalogue.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.UserCreate.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.MonitorUser.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.UserDeactivate.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.Modules.UserDetails.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.Modules.UserSyncHistory.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.UserUpdate.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.StockReceiveCreateTask.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.StockIssueCreateTask.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.StockMoveCreateTask.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.StockTakeCreateTask.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.MonitorTask.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Modules.TraceCreateTask.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.Modules.ViewLive.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.Properties.Resources.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Reports.RptIssue.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Reports.RptItemHierarchical.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Reports.RptAlarmStatus.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Reports.RptLocationHierarchical.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Reports.RptSealStatus.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Reports.RptStock.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Reports.RptStockTake.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\ISM.Reports.RptUserActivity.resources
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.csproj.GenerateResource.Cache
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.exe.licenses
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.exe
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.pdb
+E:\Systems\Ammo\Source Code\SHSHQ\obj\Release\SHSHQ.csprojResolveAssemblyReference.cache

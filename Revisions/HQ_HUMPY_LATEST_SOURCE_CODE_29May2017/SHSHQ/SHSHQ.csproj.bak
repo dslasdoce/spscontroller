@@ -1,0 +1,844 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8094C7B8-1F69-4B57-8D90-B156428B8E54}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SHSHQ</RootNamespace>
+    <AssemblyName>SHSHQ</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>1278283997_search.ico</ApplicationIcon>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+    <PublishUrl>http://localhost/ISM/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v10.1.Core, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Data.v10.1, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Design.v10.1, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v10.1.Core, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v10.1, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Web.v10.1, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v10.1, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v10.1, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v10.1, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v10.1, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v10.1, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v10.1, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPivotGrid.v10.1, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v10.1, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v10.1, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraRichEdit.v10.1, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v10.1, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v10.1.Core, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v10.1, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraVerticalGrid.v10.1, Version=10.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Impinj.OctaneSdk, Version=2.0.0.14, Culture=neutral, PublicKeyToken=fc2c00c420d693d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>RFIDReader\Impinj.OctaneSdk.dll</HintPath>
+    </Reference>
+    <Reference Include="ISMComponents, Version=1.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\ISMComponents.dll</HintPath>
+    </Reference>
+    <Reference Include="ISMDAL, Version=1.4.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\ISMDAL.dll</HintPath>
+    </Reference>
+    <Reference Include="LLRP, Version=10.16.0.240, Culture=neutral, PublicKeyToken=450cec67a1cde3d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>RFIDReader\LLRP.dll</HintPath>
+    </Reference>
+    <Reference Include="LLRP.Impinj, Version=10.16.0.240, Culture=neutral, PublicKeyToken=450cec67a1cde3d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>RFIDReader\LLRP.Impinj.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Management.Sdk.Sfc, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.ServiceBrokerEnum, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Smo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.SmoExtended, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.SqlEnum, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="msmdvbanet">
+      <HintPath>..\msmdvbanet.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Design">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Management">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\SHSEnums.cs">
+      <Link>HumpyDAL\SHSEnums.cs</Link>
+    </Compile>
+    <Compile Include="Class\ISMCommon.cs" />
+    <Compile Include="Class\ISMTreeList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Class\TreeListNodeLevel.cs" />
+    <Compile Include="Class\TreeListViewState.cs" />
+    <Compile Include="Class\TreeViewExpandOperation.cs" />
+    <Compile Include="Forms\FrmAboutSHS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmAboutSHS.Designer.cs">
+      <DependentUpon>FrmAboutSHS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmAlarmExpMsg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmAlarmExpMsg.Designer.cs">
+      <DependentUpon>FrmAlarmExpMsg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmLabel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmLabel.Designer.cs">
+      <DependentUpon>FrmLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmPWordChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmPWordChange.Designer.cs">
+      <DependentUpon>FrmPWordChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmStockCodeSearcher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmStockCodeSearcher.Designer.cs">
+      <DependentUpon>FrmStockCodeSearcher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmStockTake.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmStockTake.Designer.cs">
+      <DependentUpon>FrmStockTake.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmException.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmException.Designer.cs">
+      <DependentUpon>FrmException.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmStockTakeLocTree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmStockTakeLocTree.Designer.cs">
+      <DependentUpon>FrmStockTakeLocTree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmStockTakeSealConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmStockTakeSealConfirm.Designer.cs">
+      <DependentUpon>FrmStockTakeSealConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmWitnessLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmWitnessLogin.designer.cs">
+      <DependentUpon>FrmWitnessLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HumpyDAL\HumpyDAL.cs" />
+    <Compile Include="MISCReader\MISCReader.cs" />
+    <Compile Include="MISCReader\AsynchronousClient.cs" />
+    <Compile Include="MISCReader\Command.cs" />
+    <Compile Include="MISCReader\CommandClient.cs" />
+    <Compile Include="MISCReader\Enums.cs" />
+    <Compile Include="MISCReader\EventArgs.cs" />
+    <Compile Include="MISCReader\Exceptions.cs" />
+    <Compile Include="MISCReader\RFIDTag.cs" />
+    <Compile Include="Modules\AlarmExpManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\AlarmExpManagement.Designer.cs">
+      <DependentUpon>AlarmExpManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\ISMDatabaseBackup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\ISMDatabaseBackup.Designer.cs">
+      <DependentUpon>ISMDatabaseBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\ISMServiceMonitor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\ISMServiceMonitor.Designer.cs">
+      <DependentUpon>ISMServiceMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\LocationPortal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\LocationPortal.designer.cs">
+      <DependentUpon>LocationPortal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\LocationPortalUpdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\LocationPortalUpdate.designer.cs">
+      <DependentUpon>LocationPortalUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\MonitorPortal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\MonitorPortal.Designer.cs">
+      <DependentUpon>MonitorPortal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\LocationSearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\LocationSearch.Designer.cs">
+      <DependentUpon>LocationSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\MonitorAlarms.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\MonitorAlarms.Designer.cs">
+      <DependentUpon>MonitorAlarms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\LocationAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\LocationAdmin.Designer.cs">
+      <DependentUpon>LocationAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\MonitorDevice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\MonitorDevice.Designer.cs">
+      <DependentUpon>MonitorDevice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\MonitorException.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\MonitorException.Designer.cs">
+      <DependentUpon>MonitorException.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\MonitorInterface.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\MonitorInterface.Designer.cs">
+      <DependentUpon>MonitorInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\ISMBaseWorkSpace.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\ISMBaseWorkSpace.Designer.cs">
+      <DependentUpon>ISMBaseWorkSpace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\LocationTree.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\LocationTree.Designer.cs">
+      <DependentUpon>LocationTree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\RptFrmActiveReaderActy.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\RptFrmActiveReaderActy.Designer.cs">
+      <DependentUpon>RptFrmActiveReaderActy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\RptFrmAlarmStatus.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\RptFrmAlarmStatus.Designer.cs">
+      <DependentUpon>RptFrmAlarmStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\RptFrmIssue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\RptFrmIssue.Designer.cs">
+      <DependentUpon>RptFrmIssue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\RptFrmSealStatus.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\RptFrmSealStatus.Designer.cs">
+      <DependentUpon>RptFrmSealStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\RptFrmStock.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\RptFrmStock.Designer.cs">
+      <DependentUpon>RptFrmStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\RptFrmStockHierarchical.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\RptFrmStockHierarchical.Designer.cs">
+      <DependentUpon>RptFrmStockHierarchical.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\RptFrmStockSearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\RptFrmStockSearch.Designer.cs">
+      <DependentUpon>RptFrmStockSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\RptFrmStockTake.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\RptFrmStockTake.Designer.cs">
+      <DependentUpon>RptFrmStockTake.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\RptFrmUserActivity.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\RptFrmUserActivity.Designer.cs">
+      <DependentUpon>RptFrmUserActivity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\RptMILISStockTake.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\RptMILISStockTake.Designer.cs">
+      <DependentUpon>RptMILISStockTake.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\StockManage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\StockManage.Designer.cs">
+      <DependentUpon>StockManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\TaskMgnt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\TaskMgnt.Designer.cs">
+      <DependentUpon>TaskMgnt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\UpdateCatalogue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\UpdateCatalogue.Designer.cs">
+      <DependentUpon>UpdateCatalogue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\UserCreate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\UserCreate.Designer.cs">
+      <DependentUpon>UserCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\MonitorUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\MonitorUser.Designer.cs">
+      <DependentUpon>MonitorUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\UserDeactivate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\UserDeactivate.Designer.cs">
+      <DependentUpon>UserDeactivate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\UserUpdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\UserUpdate.Designer.cs">
+      <DependentUpon>UserUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\StockReceiveCreateTask.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\StockReceiveCreateTask.Designer.cs">
+      <DependentUpon>StockReceiveCreateTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\StockIssueCreateTask.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\StockIssueCreateTask.Designer.cs">
+      <DependentUpon>StockIssueCreateTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\StockMoveCreateTask.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\StockMoveCreateTask.Designer.cs">
+      <DependentUpon>StockMoveCreateTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\StockTakeCreateTask.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\StockTakeCreateTask.Designer.cs">
+      <DependentUpon>StockTakeCreateTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\MonitorTask.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\MonitorTask.Designer.cs">
+      <DependentUpon>MonitorTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\TraceCreateTask.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\TraceCreateTask.Designer.cs">
+      <DependentUpon>TraceCreateTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RFIDReader\Memory.cs" />
+    <Compile Include="RFIDReader\Utility.cs" />
+    <Compile Include="Tools\clsCrossThreadCalls.cs" />
+    <Compile Include="Tools\Configration.cs" />
+    <Compile Include="Tools\LogString.cs" />
+    <Compile Include="VirtualPassiveReader.cs" />
+    <EmbeddedResource Include="Forms\FrmAboutSHS.resx">
+      <DependentUpon>FrmAboutSHS.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmLabel.resx">
+      <DependentUpon>FrmLabel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmPWordChange.resx">
+      <DependentUpon>FrmPWordChange.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmStockCodeSearcher.resx">
+      <DependentUpon>FrmStockCodeSearcher.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmStockTake.resx">
+      <DependentUpon>FrmStockTake.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmException.resx">
+      <DependentUpon>FrmException.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmStockTakeLocTree.resx">
+      <DependentUpon>FrmStockTakeLocTree.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmStockTakeSealConfirm.resx">
+      <DependentUpon>FrmStockTakeSealConfirm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmWitnessLogin.resx">
+      <DependentUpon>FrmWitnessLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\AlarmExpManagement.resx">
+      <DependentUpon>AlarmExpManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\ISMDatabaseBackup.resx">
+      <DependentUpon>ISMDatabaseBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\ISMServiceMonitor.resx">
+      <DependentUpon>ISMServiceMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\LocationPortal.resx">
+      <DependentUpon>LocationPortal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\LocationPortalUpdate.resx">
+      <DependentUpon>LocationPortalUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\MonitorPortal.resx">
+      <DependentUpon>MonitorPortal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\LocationSearch.resx">
+      <DependentUpon>LocationSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\MonitorAlarms.resx">
+      <DependentUpon>MonitorAlarms.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\LocationAdmin.resx">
+      <DependentUpon>LocationAdmin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\MonitorDevice.resx">
+      <DependentUpon>MonitorDevice.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\MonitorException.resx">
+      <DependentUpon>MonitorException.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\MonitorInterface.resx">
+      <DependentUpon>MonitorInterface.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\ISMBaseWorkSpace.resx">
+      <DependentUpon>ISMBaseWorkSpace.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\LocationTree.resx">
+      <DependentUpon>LocationTree.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\RptFrmActiveReaderActy.resx">
+      <DependentUpon>RptFrmActiveReaderActy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\RptFrmAlarmStatus.resx">
+      <DependentUpon>RptFrmAlarmStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\RptFrmIssue.resx">
+      <DependentUpon>RptFrmIssue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\RptFrmSealStatus.resx">
+      <DependentUpon>RptFrmSealStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\RptFrmStock.resx">
+      <DependentUpon>RptFrmStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\RptFrmStockHierarchical.resx">
+      <DependentUpon>RptFrmStockHierarchical.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\RptFrmStockSearch.resx">
+      <DependentUpon>RptFrmStockSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\RptFrmStockTake.resx">
+      <DependentUpon>RptFrmStockTake.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\RptFrmUserActivity.resx">
+      <DependentUpon>RptFrmUserActivity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\RptMILISStockTake.resx">
+      <DependentUpon>RptMILISStockTake.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\StockManage.resx">
+      <DependentUpon>StockManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\TaskMgnt.resx">
+      <DependentUpon>TaskMgnt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\UpdateCatalogue.resx">
+      <DependentUpon>UpdateCatalogue.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\UserCreate.resx">
+      <DependentUpon>UserCreate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\MonitorUser.resx">
+      <DependentUpon>MonitorUser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\UserDeactivate.resx">
+      <DependentUpon>UserDeactivate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\UserUpdate.resx">
+      <DependentUpon>UserUpdate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\StockReceiveCreateTask.resx">
+      <DependentUpon>StockReceiveCreateTask.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\StockIssueCreateTask.resx">
+      <DependentUpon>StockIssueCreateTask.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\StockMoveCreateTask.resx">
+      <DependentUpon>StockMoveCreateTask.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\StockTakeCreateTask.resx">
+      <DependentUpon>StockTakeCreateTask.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\MonitorTask.resx">
+      <DependentUpon>MonitorTask.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\TraceCreateTask.resx">
+      <DependentUpon>TraceCreateTask.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptIssue.resx">
+      <DependentUpon>RptIssue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptItemHierarchical.resx">
+      <DependentUpon>RptItemHierarchical.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptAlarmStatus.resx">
+      <DependentUpon>RptAlarmStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptLocationHierarchical.resx">
+      <DependentUpon>RptLocationHierarchical.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptSealStatus.resx">
+      <DependentUpon>RptSealStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptStock.resx">
+      <DependentUpon>RptStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptStockTake.resx">
+      <DependentUpon>RptStockTake.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptUserActivity.resx">
+      <DependentUpon>RptUserActivity.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Reports\RptIssue.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptIssue.Designer.cs">
+      <DependentUpon>RptIssue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RptItemHierarchical.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptItemHierarchical.Designer.cs">
+      <DependentUpon>RptItemHierarchical.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RptAlarmStatus.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptAlarmStatus.Designer.cs">
+      <DependentUpon>RptAlarmStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RptLocationHierarchical.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptLocationHierarchical.Designer.cs">
+      <DependentUpon>RptLocationHierarchical.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RptSealStatus.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptSealStatus.Designer.cs">
+      <DependentUpon>RptSealStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RptStock.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptStock.Designer.cs">
+      <DependentUpon>RptStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RptStockTake.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptStockTake.Designer.cs">
+      <DependentUpon>RptStockTake.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RptUserActivity.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptUserActivity.Designer.cs">
+      <DependentUpon>RptUserActivity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1278283997_search.ico" />
+    <Content Include="GeneralNotes.txt" />
+    <Content Include="ISM.ICO" />
+    <Content Include="ReleaseNote.txt" />
+    <None Include="Resources\AMMOLogo.png" />
+    <Content Include="RFIDReader\Impinj.OctaneSdk.dll" />
+    <Content Include="RFIDReader\LLRP.dll" />
+    <Content Include="RFIDReader\LLRP.Impinj.dll" />
+    <Content Include="Tools\systemBCDS.xml" />
+    <None Include="Resources\Forklift_Final.jpg" />
+    <None Include="MILISStockNoTemplate.xls">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\Information-icon 16x16.png" />
+    <None Include="Resources\Information-icon 24x24.png" />
+    <None Include="Resources\Information-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="RFID_ReaderIP" value="10.248.252.197" />
+	  <add key="RFID_ReaderTCPIPPort" value="14150" />
+    <add key="RFID_IgnoreAntPort" value="TRUE" />
+    <add key="Printer_PrinterName" value="Zebra ZD500R (300 dpi) (Copy 2)" />  
+    <add key="Scale_COMPortName" value="COM4" />
+    <add key="Scale_Baudrate" value="9600" />
+    <add key="Scale_CarriageReturnFlag" value="TRUE" />  
+    <add key="KPI_CheckInterval" value="1000" />
+    <add key="KPI_FilePath" value="" />
+    <add key="KPI_KPITargetPrefix" value="Target:\r\n" />  
+    <add key="Cloud_StaticURL" value="http://54.88.171.235/" />
+    <add key="Cloud_LicenceKey" value="ZK5M9Q6O887D3TU9E280" />
+    <add key="TagList_HaventSeenTagX" value="500" />
+    <add key="TagList_CheckInterval" value="1000" />
+    <add key="Cloud_CompanyId" value="122" />
+    <add key="Cloud_DeviceId" value="0" />
+    <add key="SSD_LoadItemTypeId" value="2" />
+    <add key="Cloud_CompanyName" value="Red Cross Melbourne" />
+    <add key="Cloud_Token" value="" />
+    <add key="Cloud_Username" value="" />
+    <add key="Category_FFPA_Id" value="" />
+    <add key="Category_FFPB_Id" value="" />
+    <add key="Category_FFPAB_Id" value="" />
+    <add key="Category_FFPO_Id" value="" />
+    <add key="Category_CRYOA_Id" value="" />
+    <add key="Category_CRYOB_Id" value="" />
+    <add key="Category_CRYOC_Id" value="" />
+    <add key="Category_CRYOD_Id" value="" />
+    <add key="AssetType_BloodBag_Id" value="" />
+    <add key="AssetType_MetalBasket_Id" value="" />
+    <add key="AssetType_PlasticTote_Id" value="" />
+    <add key="AssetType_Pallet_Id" value="" />
+    <add key="AssetType_Trolley_Id" value="" />
+    <add key="AssetType_Vehicle_Id" value="" />
+    <add key="UserStatusId_Received" value="" />    
+    <add key="UserStatusId_Approved" value="" />
+    <add key="UserStatusId_AwaitingResults" value="" />
+    <add key="UserStatusId_QAHold" value="" />
+    <add key="UserStatusId_Disposal" value="" />
+    <add key="GUI_DataGridViewUpdateInterval" value="3000" />
+    <add key="Weight_PlasticToteWeight_kg" value="2" />
+    <add key="Weight_MetalBasketWeight_kg" value="1" />
+    <add key="Weight_OffsetPercent" value="4.1" />
+    <add key="Category_NA_Id" value="" />
+    <add key="MoveLocList" value="ALL" />
+    <add key="UserStatusId_RecallPending" value="" />
+    <add key="SSD_IncludeChildLocation" value="true" />
+  </appSettings>
+</configuration>

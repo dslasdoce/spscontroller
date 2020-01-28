@@ -1,0 +1,9 @@
+host=10.0.10.55
+a1_TxPwr=5
+a2_TxPwr=13
+a3_TxPwr=22
+a4_TxPwr=47
+a1_RxSens=2
+a2_RxSens=3
+a3_RxSens=4
+a4_RxSens=1

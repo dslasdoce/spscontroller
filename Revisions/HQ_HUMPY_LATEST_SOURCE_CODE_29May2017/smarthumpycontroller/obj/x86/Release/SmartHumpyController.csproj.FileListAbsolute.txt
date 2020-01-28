@@ -1,0 +1,120 @@
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\systemBCDS.xml
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\SmartHumpyController.exe.config
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\SmartHumpyController.exe
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\SmartHumpyController.pdb
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\DevExpress.Data.v10.1.dll
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\DevExpress.Utils.v10.1.dll
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\DevExpress.XtraEditors.v10.1.dll
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\DevExpress.XtraGrid.v10.1.dll
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\FileHelpers.dll
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\FileHelpers.ExcelStorage.dll
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\Impinj.OctaneSdk.dll
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\InputSimulator.dll
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\LLRP.dll
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\LLRP.Impinj.dll
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\Newtonsoft.Json.dll
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\RoundButton.dll
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\Interop.Excel.dll
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\Interop.Office.dll
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\Microsoft.Vbe.Interop.dll
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\office.dll
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\DevExpress.Data.v10.1.xml
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\DevExpress.Utils.v10.1.xml
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\DevExpress.XtraEditors.v10.1.xml
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\DevExpress.XtraGrid.v10.1.xml
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\bin\Release\office.xml
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\obj\x86\Release\SmartHumpyController.FrmAboutISM.resources
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\obj\x86\Release\SmartHumpyController.FrmAdmin.resources
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\obj\x86\Release\SmartHumpyController.FrmMain.resources
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\obj\x86\Release\SmartHumpyController.FrmStatus.resources
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\obj\x86\Release\SmartHumpyController.Properties.Resources.resources
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\obj\x86\Release\SmartHumpyController.csproj.GenerateResource.Cache
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\obj\x86\Release\SmartHumpyController.exe.licenses
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\obj\x86\Release\SmartHumpyController.exe
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\obj\x86\Release\SmartHumpyController.pdb
+C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\obj\x86\Release\SmartHumpyController.FrmStartupcs.resources
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\systemBCDS.xml
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\SmartHumpyController.exe.config
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\SmartHumpyController.exe
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\SmartHumpyController.pdb
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\DevExpress.Data.v15.2.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\DevExpress.Printing.v15.2.Core.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\DevExpress.Utils.v15.2.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\DevExpress.XtraEditors.v15.2.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\Newtonsoft.Json.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\DevExpress.Printing.v15.2.Core.xml
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\DevExpress.Data.v15.2.xml
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\DevExpress.Utils.v15.2.xml
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\DevExpress.XtraEditors.v15.2.xml
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\de\DevExpress.Data.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\es\DevExpress.Data.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\ja\DevExpress.Data.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\ru\DevExpress.Data.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\de\DevExpress.Utils.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\es\DevExpress.Utils.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\ja\DevExpress.Utils.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\ru\DevExpress.Utils.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.FrmAboutISM.resources
+D:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.FrmAdmin.resources
+D:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.FrmMain.resources
+D:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.FrmStartupcs.resources
+D:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.FrmStatus.resources
+D:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.Properties.Resources.resources
+D:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.csproj.GenerateResource.Cache
+D:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.exe.licenses
+D:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.exe
+D:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.pdb
+D:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.csprojResolveAssemblyReference.cache
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\systemBCDS.xml
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\SmartHumpyController.exe.config
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\SmartHumpyController.exe
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\SmartHumpyController.pdb
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\AMMO_BG_DLL.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\DevExpress.Data.v15.2.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\DevExpress.Printing.v15.2.Core.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\DevExpress.Utils.v15.2.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\DevExpress.XtraEditors.v15.2.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\Newtonsoft.Json.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\AMMO_BG_DLL.pdb
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\AMMO_BG_DLL.xml
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\DevExpress.Printing.v15.2.Core.xml
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\DevExpress.Data.v15.2.xml
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\DevExpress.Utils.v15.2.xml
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\DevExpress.XtraEditors.v15.2.xml
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\de\DevExpress.Data.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\es\DevExpress.Data.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\ja\DevExpress.Data.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\ru\DevExpress.Data.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\de\DevExpress.Utils.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\es\DevExpress.Utils.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\ja\DevExpress.Utils.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\ru\DevExpress.Utils.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\bin\Release\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.ConnectionReminder.resources
+E:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.FrmAboutISM.resources
+E:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.FrmAdmin.resources
+E:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.FrmMain.resources
+E:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.FrmStartupcs.resources
+E:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.FrmStatus.resources
+E:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.HumpyMode.resources
+E:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.Properties.Resources.resources
+E:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.csproj.GenerateResource.Cache
+E:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.exe.licenses
+E:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.exe
+E:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.pdb
+E:\Systems\Ammo\Source Code\smarthumpycontroller\obj\x86\Release\SmartHumpyController.csprojResolveAssemblyReference.cache

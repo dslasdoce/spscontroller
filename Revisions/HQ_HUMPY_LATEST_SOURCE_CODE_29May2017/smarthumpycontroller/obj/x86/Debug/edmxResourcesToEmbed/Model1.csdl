@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SmartHumpyModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="SmartHumpyEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Companies" EntityType="SmartHumpyModel.Company" />
+    <EntitySet Name="Histories" EntityType="SmartHumpyModel.History" />
+    <EntitySet Name="Inputs" EntityType="SmartHumpyModel.Input" />
+    <EntitySet Name="Medicines" EntityType="SmartHumpyModel.Medicine" />
+    <EntitySet Name="Personnels" EntityType="SmartHumpyModel.Personnel" />
+    <EntitySet Name="ReaderFunctions" EntityType="SmartHumpyModel.ReaderFunction" />
+    <EntitySet Name="ReaderFunctionCompanyRelationships" EntityType="SmartHumpyModel.ReaderFunctionCompanyRelationship" />
+    <EntitySet Name="ReaderSettings" EntityType="SmartHumpyModel.ReaderSetting" />
+    <EntitySet Name="sysdiagrams" EntityType="SmartHumpyModel.sysdiagram" />
+    <EntitySet Name="Systems" EntityType="SmartHumpyModel.System" />
+    <EntitySet Name="Tags" EntityType="SmartHumpyModel.Tag" />
+    <AssociationSet Name="FK_ReaderFunctionCompanyRelationship_Company" Association="SmartHumpyModel.FK_ReaderFunctionCompanyRelationship_Company">
+      <End Role="Company" EntitySet="Companies" />
+      <End Role="ReaderFunctionCompanyRelationship" EntitySet="ReaderFunctionCompanyRelationships" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Medicine_Medicine" Association="SmartHumpyModel.FK_Medicine_Medicine">
+      <End Role="Medicine" EntitySet="Medicines" />
+      <End Role="Medicine1" EntitySet="Medicines" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Medicine_Tags" Association="SmartHumpyModel.FK_Medicine_Tags">
+      <End Role="Tags" EntitySet="Tags" />
+      <End Role="Medicine" EntitySet="Medicines" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ReaderFunctionCompanyRelationship_ReaderFunction" Association="SmartHumpyModel.FK_ReaderFunctionCompanyRelationship_ReaderFunction">
+      <End Role="ReaderFunction" EntitySet="ReaderFunctions" />
+      <End Role="ReaderFunctionCompanyRelationship" EntitySet="ReaderFunctionCompanyRelationships" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ReaderFunctionCompanyRelationship_ReaderSetting" Association="SmartHumpyModel.FK_ReaderFunctionCompanyRelationship_ReaderSetting">
+      <End Role="ReaderSetting" EntitySet="ReaderSettings" />
+      <End Role="ReaderFunctionCompanyRelationship" EntitySet="ReaderFunctionCompanyRelationships" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Company">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CompanyName" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Description" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="Address" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="Contact" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="PhoneNum" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="ReaderFunctionCompanyRelationships" Relationship="SmartHumpyModel.FK_ReaderFunctionCompanyRelationship_Company" FromRole="Company" ToRole="ReaderFunctionCompanyRelationship" />
+  </EntityType>
+  <EntityType Name="History">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="JournalType" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Description" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="CreatedDT" Type="DateTime" />
+    <Property Name="UpdatedDT" Type="DateTime" />
+    <Property Name="CreatedBy" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="UpdatedBy" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Input">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TID_General" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="TID_Personnel" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="FirstSeenDT" Type="DateTime" />
+    <Property Name="LastSeenDT" Type="DateTime" />
+    <Property Name="AntennaID" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="PeakRSSI" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="LocId" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Medicine">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="Decription" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="MedBarcodeNum" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="UniqueIdentifier" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="FK_Tag_UID" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="TIDM" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Med_Param1" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="Med_Param2" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="Med_Param3" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Medicine1" Relationship="SmartHumpyModel.FK_Medicine_Medicine" FromRole="Medicine" ToRole="Medicine1" />
+    <NavigationProperty Name="Medicine2" Relationship="SmartHumpyModel.FK_Medicine_Medicine" FromRole="Medicine1" ToRole="Medicine" />
+    <NavigationProperty Name="Tag" Relationship="SmartHumpyModel.FK_Medicine_Tags" FromRole="Medicine" ToRole="Tags" />
+  </EntityType>
+  <EntityType Name="Personnel">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="PhoneNum" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Address" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="AccessCardUID" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="TIDP" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="CheckedIn" Type="Boolean" />
+    <Property Name="LocationGroup" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="ReaderFunction">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FunctionName" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="FunctionDescription" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="ReaderFunctionCompanyRelationships" Relationship="SmartHumpyModel.FK_ReaderFunctionCompanyRelationship_ReaderFunction" FromRole="ReaderFunction" ToRole="ReaderFunctionCompanyRelationship" />
+  </EntityType>
+  <EntityType Name="ReaderFunctionCompanyRelationship">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FK_Reader_ID" Type="Int64" />
+    <Property Name="FK_ReaderFunction_ID" Type="Int64" />
+    <Property Name="AntennaNumber" Type="Int64" />
+    <Property Name="FK_Company_ID" Type="Int64" />
+    <NavigationProperty Name="Company" Relationship="SmartHumpyModel.FK_ReaderFunctionCompanyRelationship_Company" FromRole="ReaderFunctionCompanyRelationship" ToRole="Company" />
+    <NavigationProperty Name="ReaderFunction" Relationship="SmartHumpyModel.FK_ReaderFunctionCompanyRelationship_ReaderFunction" FromRole="ReaderFunctionCompanyRelationship" ToRole="ReaderFunction" />
+    <NavigationProperty Name="ReaderSetting" Relationship="SmartHumpyModel.FK_ReaderFunctionCompanyRelationship_ReaderSetting" FromRole="ReaderFunctionCompanyRelationship" ToRole="ReaderSetting" />
+  </EntityType>
+  <EntityType Name="ReaderSetting">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ReaderName" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="ReaderIP" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="ReaderType" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="ReaderAntPower1" Type="Double" />
+    <Property Name="ReaderAntPower2" Type="Double" />
+    <Property Name="ReaderAntPower3" Type="Double" />
+    <Property Name="ReaderAntPower4" Type="Double" />
+    <Property Name="ReaderAntPower5" Type="Double" />
+    <Property Name="ReaderAntPower6" Type="Double" />
+    <Property Name="ReaderAntPower7" Type="Double" />
+    <Property Name="ReaderAntPower8" Type="Double" />
+    <Property Name="ReaderAntPower9" Type="Double" />
+    <Property Name="ReaderAntPower10" Type="Double" />
+    <Property Name="ReaderAntPower11" Type="Double" />
+    <Property Name="ReaderAntPower12" Type="Double" />
+    <Property Name="ReaderAntPower13" Type="Double" />
+    <Property Name="ReaderAntPower14" Type="Double" />
+    <Property Name="ReaderAntPower15" Type="Double" />
+    <Property Name="ReaderAntPower16" Type="Double" />
+    <Property Name="ReaderAntPower17" Type="Double" />
+    <Property Name="ReaderAntPower18" Type="Double" />
+    <Property Name="ReaderAntPower19" Type="Double" />
+    <Property Name="ReaderAntPower20" Type="Double" />
+    <Property Name="ReaderAntPower21" Type="Double" />
+    <Property Name="ReaderAntPower22" Type="Double" />
+    <Property Name="ReaderAntPower23" Type="Double" />
+    <Property Name="ReaderAntPower24" Type="Double" />
+    <Property Name="ReaderAntPower25" Type="Double" />
+    <Property Name="ReaderAntPower26" Type="Double" />
+    <Property Name="ReaderAntPower27" Type="Double" />
+    <Property Name="ReaderAntPower28" Type="Double" />
+    <Property Name="ReaderAntPower29" Type="Double" />
+    <Property Name="ReaderAntPower30" Type="Double" />
+    <Property Name="ReaderAntPower31" Type="Double" />
+    <Property Name="ReaderAntPower32" Type="Double" />
+    <NavigationProperty Name="ReaderFunctionCompanyRelationships" Relationship="SmartHumpyModel.FK_ReaderFunctionCompanyRelationship_ReaderSetting" FromRole="ReaderSetting" ToRole="ReaderFunctionCompanyRelationship" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="System">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DBVersion" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="SysVersion" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Param1" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Param2" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Param3" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Param4" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Param5" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Param6" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Param7" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Param8" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Param9" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Param10" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Tag">
+    <Key>
+      <PropertyRef Name="TagUID" />
+    </Key>
+    <Property Name="ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TagUID" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="TagType" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Medicines" Relationship="SmartHumpyModel.FK_Medicine_Tags" FromRole="Tags" ToRole="Medicine" />
+  </EntityType>
+  <Association Name="FK_ReaderFunctionCompanyRelationship_Company">
+    <End Role="Company" Type="SmartHumpyModel.Company" Multiplicity="0..1" />
+    <End Role="ReaderFunctionCompanyRelationship" Type="SmartHumpyModel.ReaderFunctionCompanyRelationship" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Company">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ReaderFunctionCompanyRelationship">
+        <PropertyRef Name="FK_Company_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Medicine_Medicine">
+    <End Role="Medicine" Type="SmartHumpyModel.Medicine" Multiplicity="1" />
+    <End Role="Medicine1" Type="SmartHumpyModel.Medicine" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Medicine">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Medicine1">
+        <PropertyRef Name="ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Medicine_Tags">
+    <End Role="Tags" Type="SmartHumpyModel.Tag" Multiplicity="0..1" />
+    <End Role="Medicine" Type="SmartHumpyModel.Medicine" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tags">
+        <PropertyRef Name="TagUID" />
+      </Principal>
+      <Dependent Role="Medicine">
+        <PropertyRef Name="FK_Tag_UID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ReaderFunctionCompanyRelationship_ReaderFunction">
+    <End Role="ReaderFunction" Type="SmartHumpyModel.ReaderFunction" Multiplicity="0..1" />
+    <End Role="ReaderFunctionCompanyRelationship" Type="SmartHumpyModel.ReaderFunctionCompanyRelationship" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ReaderFunction">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ReaderFunctionCompanyRelationship">
+        <PropertyRef Name="FK_ReaderFunction_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ReaderFunctionCompanyRelationship_ReaderSetting">
+    <End Role="ReaderSetting" Type="SmartHumpyModel.ReaderSetting" Multiplicity="0..1" />
+    <End Role="ReaderFunctionCompanyRelationship" Type="SmartHumpyModel.ReaderFunctionCompanyRelationship" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ReaderSetting">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ReaderFunctionCompanyRelationship">
+        <PropertyRef Name="FK_Reader_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

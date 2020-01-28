@@ -1,0 +1,13 @@
+9/6/2016 11:14:33 AM: Stage-CurrApp Memory: Action:2539116
+9/6/2016 11:14:25 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM5' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in e:\Systems\Ammo\Source Code\smarthumpycontroller\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in e:\Systems\Ammo\Source Code\smarthumpycontroller\FrmMain.cs:line 900
+9/6/2016 11:14:36 AM: Stage-CurrApp Memory: Action:2799152
+9/6/2016 11:14:39 AM: Stage-CurrApp Memory: Action:2830168
+9/6/2016 11:14:42 AM: Stage-CurrApp Memory: Action:3223668
+9/6/2016 11:14:45 AM: Stage-CurrApp Memory: Action:3186840
+9/6/2016 11:14:48 AM: Stage-CurrApp Memory: Action:3004884
+9/6/2016 11:14:52 AM: Stage-CurrApp Memory: Action:3356080
+9/6/2016 11:14:55 AM: Stage-CurrApp Memory: Action:3246352
+9/6/2016 11:14:58 AM: Stage-CurrApp Memory: Action:2689952
+9/6/2016 11:15:01 AM: Stage-CurrApp Memory: Action:2990452

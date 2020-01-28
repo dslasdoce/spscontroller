@@ -1,0 +1,252 @@
+12/05/2016 8:23:32 PM: Stage-ReconnectReader Action:Start reconnecting reader
+12/05/2016 8:23:27 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+12/05/2016 8:23:32 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+12/05/2016 8:23:37 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+12/05/2016 8:23:47 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+12/05/2016 8:23:57 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+13/05/2016 11:53:48 AM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+13/05/2016 11:53:53 AM: Stage-ReconnectReader Action:Start reconnecting reader
+13/05/2016 11:53:53 AM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+13/05/2016 11:53:58 AM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+13/05/2016 12:00:01 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+13/05/2016 12:00:06 PM: Stage-ReconnectReader Action:Start reconnecting reader
+13/05/2016 12:00:06 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+13/05/2016 12:00:20 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+13/05/2016 12:00:25 PM: Stage-ReconnectReader Action:Start reconnecting reader
+13/05/2016 12:00:25 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+13/05/2016 12:00:30 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+13/05/2016 12:01:11 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+13/05/2016 12:01:16 PM: Stage-ReconnectReader Action:Start reconnecting reader
+13/05/2016 12:01:16 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+13/05/2016 12:01:21 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+13/05/2016 12:01:31 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+13/05/2016 12:01:41 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+13/05/2016 12:03:04 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+13/05/2016 12:03:09 PM: Stage-ReconnectReader Action:Start reconnecting reader
+13/05/2016 12:03:09 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+13/05/2016 12:03:14 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:21:08 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 3:22:52 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 3:22:57 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 3:22:57 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 3:23:02 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:23:12 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:26:03 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 3:26:08 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 3:26:08 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 3:26:12 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:31:49 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 3:31:54 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 3:31:54 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 3:31:59 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:32:09 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:33:37 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 3:33:42 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 3:33:42 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 3:33:46 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:34:19 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 3:34:24 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 3:34:24 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 3:34:29 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:34:38 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 3:35:15 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 3:35:22 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 3:36:19 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 3:36:24 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 3:36:24 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 3:36:28 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:36:38 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:36:48 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:36:58 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:37:08 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:37:18 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:38:31 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 3:38:36 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 3:38:36 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 3:38:40 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:38:50 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:39:00 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:39:10 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:39:20 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:39:30 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:39:40 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:39:50 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:40:00 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:40:10 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:40:20 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:40:30 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:40:40 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:40:50 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:41:00 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:41:10 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:41:20 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:41:30 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:41:40 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:41:50 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:42:00 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:49:23 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 3:49:28 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 3:49:28 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 3:49:33 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:49:43 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:49:53 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:50:03 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:50:13 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 3:59:58 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 4:00:03 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 4:00:03 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 4:36:30 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 4:36:35 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 4:36:35 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 4:36:39 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 4:36:49 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 4:36:59 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 4:37:09 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 4:37:19 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 4:58:03 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 4:58:08 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 4:58:08 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 4:58:13 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 4:58:23 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 4:58:33 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 4:58:43 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 4:59:03 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 4:59:08 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 4:59:08 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 4:59:13 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 4:59:23 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 4:59:33 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 4:59:43 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 4:59:53 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:00:03 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:22:27 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 5:22:32 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 5:22:32 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 5:22:37 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:22:47 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:22:57 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:23:07 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:23:17 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:25:39 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 5:25:55 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 5:26:07 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 5:26:12 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:26:50 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 5:26:55 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 5:26:55 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 5:26:59 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:27:09 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:27:19 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:27:29 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:27:39 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:28:30 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:29:10 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 5:29:15 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 5:29:15 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 5:30:36 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 5:30:41 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 5:30:41 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 5:30:46 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:30:56 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:31:06 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:31:16 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:31:26 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:31:36 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:32:59 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 5:33:19 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 5:33:19 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 5:33:24 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:33:34 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:33:44 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:34:55 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 5:35:00 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 5:35:00 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 5:35:04 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:35:14 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:35:24 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:35:34 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:36:26 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 5:36:31 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 5:36:31 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 5:36:35 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:36:45 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:36:55 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:37:05 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:37:57 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 5:38:02 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 5:38:02 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 5:38:06 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:40:14 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 5:40:19 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 5:40:19 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 5:41:33 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 5:41:38 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 5:41:38 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 5:43:03 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 5:43:08 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 5:43:08 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 5:43:12 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:43:22 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:43:32 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:43:42 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:43:52 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:44:02 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:44:12 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:44:49 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 5:44:54 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 5:44:54 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 5:44:59 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:51:31 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 5:51:36 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 5:51:36 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 5:51:40 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:52:07 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:52:29 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 5:52:34 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 5:52:34 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 5:52:39 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:52:49 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:52:59 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:53:09 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:54:16 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 5:54:21 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 5:54:21 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 5:54:25 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:54:35 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:54:45 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:55:44 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 5:55:49 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 5:55:49 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 5:55:54 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:56:04 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:56:14 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:56:24 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:56:34 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:56:49 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:57:32 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 5:57:44 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 5:57:44 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 5:57:49 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:57:59 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:58:13 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:58:23 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:58:33 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:58:43 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:58:53 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:59:03 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:59:13 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:59:23 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:59:33 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 5:59:43 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 6:00:18 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 6:00:23 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 6:00:23 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 6:00:28 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 6:00:38 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 6:00:48 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 6:00:58 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 6:01:08 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+16/05/2016 6:04:21 PM: OctaneRdError connecting to the reader (10.248.252.197) : Timeout.
+16/05/2016 6:04:27 PM: Stage-ReconnectReader Action:Start reconnecting reader
+16/05/2016 6:04:28 PM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+16/05/2016 6:04:33 PM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected

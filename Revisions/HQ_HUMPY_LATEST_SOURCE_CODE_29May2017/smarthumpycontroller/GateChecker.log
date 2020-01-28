@@ -1,0 +1,6 @@
+9/6/2016 11:14:34 AM: Stage-ReconnectReader Action:Start reconnecting reader
+9/6/2016 11:14:29 AM: OctaneRdError connecting to the reader (10.0.10.26) : Timeout.
+9/6/2016 11:14:34 AM: Stage-ImpinjReaderStopReading Action:Reader Reading Stopped
+9/6/2016 11:14:39 AM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+9/6/2016 11:14:49 AM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected
+9/6/2016 11:14:59 AM: Stage-ReconnectReader: Cannot Ping Reader IP Address Action:Reader reconnected

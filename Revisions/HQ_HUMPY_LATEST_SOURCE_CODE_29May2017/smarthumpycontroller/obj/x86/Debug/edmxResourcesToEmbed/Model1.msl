@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SmartHumpyModelStoreContainer" CdmEntityContainer="SmartHumpyEntities">
+    <EntitySetMapping Name="Companies">
+      <EntityTypeMapping TypeName="SmartHumpyModel.Company">
+        <MappingFragment StoreEntitySet="Company">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="CompanyName" ColumnName="CompanyName" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Contact" ColumnName="Contact" />
+          <ScalarProperty Name="PhoneNum" ColumnName="PhoneNum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Histories">
+      <EntityTypeMapping TypeName="SmartHumpyModel.History">
+        <MappingFragment StoreEntitySet="History">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="JournalType" ColumnName="JournalType" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="CreatedDT" ColumnName="CreatedDT" />
+          <ScalarProperty Name="UpdatedDT" ColumnName="UpdatedDT" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Inputs">
+      <EntityTypeMapping TypeName="SmartHumpyModel.Input">
+        <MappingFragment StoreEntitySet="Inputs">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TID_General" ColumnName="TID_General" />
+          <ScalarProperty Name="TID_Personnel" ColumnName="TID_Personnel" />
+          <ScalarProperty Name="FirstSeenDT" ColumnName="FirstSeenDT" />
+          <ScalarProperty Name="LastSeenDT" ColumnName="LastSeenDT" />
+          <ScalarProperty Name="AntennaID" ColumnName="AntennaID" />
+          <ScalarProperty Name="PeakRSSI" ColumnName="PeakRSSI" />
+          <ScalarProperty Name="LocId" ColumnName="LocId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Medicines">
+      <EntityTypeMapping TypeName="SmartHumpyModel.Medicine">
+        <MappingFragment StoreEntitySet="Medicine">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Decription" ColumnName="Decription" />
+          <ScalarProperty Name="MedBarcodeNum" ColumnName="MedBarcodeNum" />
+          <ScalarProperty Name="UniqueIdentifier" ColumnName="UniqueIdentifier" />
+          <ScalarProperty Name="FK_Tag_UID" ColumnName="FK_Tag_UID" />
+          <ScalarProperty Name="TIDM" ColumnName="TIDM" />
+          <ScalarProperty Name="Med_Param1" ColumnName="Med_Param1" />
+          <ScalarProperty Name="Med_Param2" ColumnName="Med_Param2" />
+          <ScalarProperty Name="Med_Param3" ColumnName="Med_Param3" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Personnels">
+      <EntityTypeMapping TypeName="SmartHumpyModel.Personnel">
+        <MappingFragment StoreEntitySet="Personnel">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="PhoneNum" ColumnName="PhoneNum" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="AccessCardUID" ColumnName="AccessCardUID" />
+          <ScalarProperty Name="TIDP" ColumnName="TIDP" />
+          <ScalarProperty Name="CheckedIn" ColumnName="CheckedIn" />
+          <ScalarProperty Name="LocationGroup" ColumnName="LocationGroup" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ReaderFunctions">
+      <EntityTypeMapping TypeName="SmartHumpyModel.ReaderFunction">
+        <MappingFragment StoreEntitySet="ReaderFunction">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="FunctionName" ColumnName="FunctionName" />
+          <ScalarProperty Name="FunctionDescription" ColumnName="FunctionDescription" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ReaderFunctionCompanyRelationships">
+      <EntityTypeMapping TypeName="SmartHumpyModel.ReaderFunctionCompanyRelationship">
+        <MappingFragment StoreEntitySet="ReaderFunctionCompanyRelationship">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="FK_Reader_ID" ColumnName="FK_Reader_ID" />
+          <ScalarProperty Name="FK_ReaderFunction_ID" ColumnName="FK_ReaderFunction_ID" />
+          <ScalarProperty Name="AntennaNumber" ColumnName="AntennaNumber" />
+          <ScalarProperty Name="FK_Company_ID" ColumnName="FK_Company_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ReaderSettings">
+      <EntityTypeMapping TypeName="SmartHumpyModel.ReaderSetting">
+        <MappingFragment StoreEntitySet="ReaderSetting">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ReaderName" ColumnName="ReaderName" />
+          <ScalarProperty Name="ReaderIP" ColumnName="ReaderIP" />
+          <ScalarProperty Name="ReaderType" ColumnName="ReaderType" />
+          <ScalarProperty Name="ReaderAntPower1" ColumnName="ReaderAntPower1" />
+          <ScalarProperty Name="ReaderAntPower2" ColumnName="ReaderAntPower2" />
+          <ScalarProperty Name="ReaderAntPower3" ColumnName="ReaderAntPower3" />
+          <ScalarProperty Name="ReaderAntPower4" ColumnName="ReaderAntPower4" />
+          <ScalarProperty Name="ReaderAntPower5" ColumnName="ReaderAntPower5" />
+          <ScalarProperty Name="ReaderAntPower6" ColumnName="ReaderAntPower6" />
+          <ScalarProperty Name="ReaderAntPower7" ColumnName="ReaderAntPower7" />
+          <ScalarProperty Name="ReaderAntPower8" ColumnName="ReaderAntPower8" />
+          <ScalarProperty Name="ReaderAntPower9" ColumnName="ReaderAntPower9" />
+          <ScalarProperty Name="ReaderAntPower10" ColumnName="ReaderAntPower10" />
+          <ScalarProperty Name="ReaderAntPower11" ColumnName="ReaderAntPower11" />
+          <ScalarProperty Name="ReaderAntPower12" ColumnName="ReaderAntPower12" />
+          <ScalarProperty Name="ReaderAntPower13" ColumnName="ReaderAntPower13" />
+          <ScalarProperty Name="ReaderAntPower14" ColumnName="ReaderAntPower14" />
+          <ScalarProperty Name="ReaderAntPower15" ColumnName="ReaderAntPower15" />
+          <ScalarProperty Name="ReaderAntPower16" ColumnName="ReaderAntPower16" />
+          <ScalarProperty Name="ReaderAntPower17" ColumnName="ReaderAntPower17" />
+          <ScalarProperty Name="ReaderAntPower18" ColumnName="ReaderAntPower18" />
+          <ScalarProperty Name="ReaderAntPower19" ColumnName="ReaderAntPower19" />
+          <ScalarProperty Name="ReaderAntPower20" ColumnName="ReaderAntPower20" />
+          <ScalarProperty Name="ReaderAntPower21" ColumnName="ReaderAntPower21" />
+          <ScalarProperty Name="ReaderAntPower22" ColumnName="ReaderAntPower22" />
+          <ScalarProperty Name="ReaderAntPower23" ColumnName="ReaderAntPower23" />
+          <ScalarProperty Name="ReaderAntPower24" ColumnName="ReaderAntPower24" />
+          <ScalarProperty Name="ReaderAntPower25" ColumnName="ReaderAntPower25" />
+          <ScalarProperty Name="ReaderAntPower26" ColumnName="ReaderAntPower26" />
+          <ScalarProperty Name="ReaderAntPower27" ColumnName="ReaderAntPower27" />
+          <ScalarProperty Name="ReaderAntPower28" ColumnName="ReaderAntPower28" />
+          <ScalarProperty Name="ReaderAntPower29" ColumnName="ReaderAntPower29" />
+          <ScalarProperty Name="ReaderAntPower30" ColumnName="ReaderAntPower30" />
+          <ScalarProperty Name="ReaderAntPower31" ColumnName="ReaderAntPower31" />
+          <ScalarProperty Name="ReaderAntPower32" ColumnName="ReaderAntPower32" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="SmartHumpyModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Systems">
+      <EntityTypeMapping TypeName="SmartHumpyModel.System">
+        <MappingFragment StoreEntitySet="System">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DBVersion" ColumnName="DBVersion" />
+          <ScalarProperty Name="SysVersion" ColumnName="SysVersion" />
+          <ScalarProperty Name="Param1" ColumnName="Param1" />
+          <ScalarProperty Name="Param2" ColumnName="Param2" />
+          <ScalarProperty Name="Param3" ColumnName="Param3" />
+          <ScalarProperty Name="Param4" ColumnName="Param4" />
+          <ScalarProperty Name="Param5" ColumnName="Param5" />
+          <ScalarProperty Name="Param6" ColumnName="Param6" />
+          <ScalarProperty Name="Param7" ColumnName="Param7" />
+          <ScalarProperty Name="Param8" ColumnName="Param8" />
+          <ScalarProperty Name="Param9" ColumnName="Param9" />
+          <ScalarProperty Name="Param10" ColumnName="Param10" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tags">
+      <EntityTypeMapping TypeName="SmartHumpyModel.Tag">
+        <MappingFragment StoreEntitySet="Tags">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TagUID" ColumnName="TagUID" />
+          <ScalarProperty Name="TagType" ColumnName="TagType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,71 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SHSHQ.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NumberOfRetry" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="DBBackupType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LOCAL</Value>
+    </Setting>
+    <Setting Name="ServiceServerIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="ServiceLocal" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UHFReaderIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.248.252.243</Value>
+    </Setting>
+    <Setting Name="MISCReaderIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.248.252.201</Value>
+    </Setting>
+    <Setting Name="MISCReaderPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7777</Value>
+    </Setting>
+    <Setting Name="HumpyDBUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="HumpyViewerTimeout_s" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Humpy_TagReadSensitivity_ms" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">3000</Value>
+    </Setting>
+    <Setting Name="Humpy_TagINsensitivity_ms" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">2000</Value>
+    </Setting>
+    <Setting Name="HumpyDBSQLInstanceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PortalUpdate_CraneGroupName1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CraneGroup1</Value>
+    </Setting>
+    <Setting Name="PortalUpdate_CraneGroupName2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CraneGroup2</Value>
+    </Setting>
+    <Setting Name="PortalUpdate_CraneGroupName3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CraneGroup3</Value>
+    </Setting>
+    <Setting Name="PortalUpdate_CraneGroupName4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CraneGroup4</Value>
+    </Setting>
+    <Setting Name="PortalUpdate_CraneGroupName5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CraneGroup5</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=localhost;Initial Catalog=HQDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=localhost;Initial Catalog=HQDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd</Value>
+    </Setting>
+    <Setting Name="HumpyDBPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">p@ssw0rd</Value>
+    </Setting>
+    <Setting Name="HumpyDBName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SmartHumpy</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

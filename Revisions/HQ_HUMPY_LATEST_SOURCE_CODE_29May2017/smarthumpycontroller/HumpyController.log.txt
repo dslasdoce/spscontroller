@@ -1,0 +1,991 @@
+13/05/2016 11:53:45 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 499
+13/05/2016 11:59:58 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 499
+13/05/2016 12:00:17 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 499
+13/05/2016 12:01:08 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 499
+13/05/2016 12:03:01 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 499
+16/05/2016 3:21:05 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 522
+16/05/2016 3:22:49 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 523
+16/05/2016 3:25:59 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 524
+16/05/2016 3:31:46 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 524
+16/05/2016 3:33:34 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 526
+16/05/2016 3:34:16 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 526
+16/05/2016 3:34:35 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 526
+16/05/2016 3:36:15 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 527
+16/05/2016 3:38:28 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 527
+16/05/2016 3:49:20 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 531
+16/05/2016 3:59:55 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 533
+16/05/2016 4:36:27 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 530
+16/05/2016 4:58:00 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 530
+16/05/2016 4:59:00 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 530
+16/05/2016 5:22:24 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 531
+16/05/2016 5:25:36 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 531
+16/05/2016 5:26:47 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 531
+16/05/2016 5:29:07 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 531
+16/05/2016 5:30:33 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 531
+16/05/2016 5:32:56 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 531
+16/05/2016 5:34:52 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 531
+16/05/2016 5:36:22 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 531
+16/05/2016 5:37:53 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 5:40:11 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 5:41:30 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 5:42:59 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 5:44:46 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 5:51:27 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 5:52:26 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 5:54:12 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 5:55:41 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 5:57:29 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 532
+16/05/2016 6:00:15 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 534
+16/05/2016 6:04:18 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 534
+16/05/2016 6:04:41 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+18/05/2016 1:28:42 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 534
+18/05/2016 1:29:39 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+18/05/2016 1:30:12 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 534
+18/05/2016 1:35:13 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+18/05/2016 1:35:28 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 534
+18/05/2016 1:37:39 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+25/05/2016 8:30:56 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 534
+25/05/2016 8:31:13 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+25/05/2016 8:56:27 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 647
+25/05/2016 8:57:27 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+25/05/2016 9:04:25 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 647
+25/05/2016 9:05:59 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+25/05/2016 9:10:04 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 647
+25/05/2016 9:12:33 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+25/05/2016 9:47:10 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 656
+25/05/2016 9:47:48 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+25/05/2016 9:48:22 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 658
+25/05/2016 9:49:18 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+25/05/2016 9:49:43 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 658
+25/05/2016 9:50:43 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+25/05/2016 9:58:17 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 658
+25/05/2016 10:01:43 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+25/05/2016 10:08:07 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 669
+25/05/2016 10:10:34 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+25/05/2016 10:12:05 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 671
+25/05/2016 10:12:19 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+26/05/2016 1:38:58 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+27/05/2016 6:30:09 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 676
+27/05/2016 6:31:06 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 1:55:36 AM: Stage-UHF Reader Disconnected Error:Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmartHumpyController.FrmMain.Stop_RFIDReader_DIRECT() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 1094
+28/05/2016 1:56:27 AM: Stage-UHF Reader Disconnected Error:Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmartHumpyController.FrmMain.Stop_RFIDReader_DIRECT() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 1094
+28/05/2016 1:59:29 AM: Stage-HF-Connect Error:System.ArgumentException: The given port name does not start with COM/com or does not resolve to a valid serial port.
+Parameter name: portName
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 755
+28/05/2016 1:59:40 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:00:33 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 755
+28/05/2016 2:00:57 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:02:19 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 759
+28/05/2016 2:02:26 AM: Stage-CurrApp Memory: Action:4319656
+28/05/2016 2:02:58 AM: Stage-CurrApp Memory: Action:2984156
+28/05/2016 2:03:06 AM: Stage-CurrApp Memory: Action:2290160
+28/05/2016 2:03:18 AM: Stage-CurrApp Memory: Action:2308288
+28/05/2016 2:03:23 AM: Stage-CurrApp Memory: Action:2849816
+28/05/2016 2:03:26 AM: Stage-CurrApp Memory: Action:3015764
+28/05/2016 2:03:29 AM: Stage-CurrApp Memory: Action:2237576
+28/05/2016 2:03:32 AM: Stage-CurrApp Memory: Action:2943120
+28/05/2016 2:03:35 AM: Stage-CurrApp Memory: Action:4121124
+28/05/2016 2:03:38 AM: Stage-CurrApp Memory: Action:2950172
+28/05/2016 2:03:41 AM: Stage-CurrApp Memory: Action:2045632
+28/05/2016 2:03:44 AM: Stage-CurrApp Memory: Action:2456588
+28/05/2016 2:03:47 AM: Stage-CurrApp Memory: Action:2685728
+28/05/2016 2:03:50 AM: Stage-CurrApp Memory: Action:4105456
+28/05/2016 2:03:53 AM: Stage-CurrApp Memory: Action:3063124
+28/05/2016 2:03:56 AM: Stage-CurrApp Memory: Action:3776568
+28/05/2016 2:03:59 AM: Stage-CurrApp Memory: Action:2702580
+28/05/2016 2:04:07 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:04:08 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 759
+28/05/2016 2:04:15 AM: Stage-CurrApp Memory: Action:3796488
+28/05/2016 2:04:23 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:04:24 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 759
+28/05/2016 2:04:27 AM: Stage-UHF Reader Disconnected Error:Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmartHumpyController.FrmMain.Stop_RFIDReader_DIRECT() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 1098
+28/05/2016 2:04:55 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 760
+28/05/2016 2:05:58 AM: Stage-CurrApp Memory: Action:2534420
+28/05/2016 2:06:01 AM: Stage-CurrApp Memory: Action:1918124
+28/05/2016 2:06:07 AM: Stage-CurrApp Memory: Action:2118472
+28/05/2016 2:06:07 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:06:47 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 760
+28/05/2016 2:06:54 AM: Stage-CurrApp Memory: Action:4678292
+28/05/2016 2:06:57 AM: Stage-CurrApp Memory: Action:2886636
+28/05/2016 2:07:00 AM: Stage-CurrApp Memory: Action:3709176
+28/05/2016 2:07:03 AM: Stage-CurrApp Memory: Action:2445976
+28/05/2016 2:07:06 AM: Stage-CurrApp Memory: Action:2401952
+28/05/2016 2:07:09 AM: Stage-CurrApp Memory: Action:3859628
+28/05/2016 2:07:12 AM: Stage-CurrApp Memory: Action:2588796
+28/05/2016 2:07:15 AM: Stage-CurrApp Memory: Action:3500324
+28/05/2016 2:07:18 AM: Stage-CurrApp Memory: Action:2392984
+28/05/2016 2:07:21 AM: Stage-CurrApp Memory: Action:2409588
+28/05/2016 2:07:27 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:07:27 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 760
+28/05/2016 2:07:49 AM: Stage-CurrApp Memory: Action:1825888
+28/05/2016 2:07:52 AM: Stage-CurrApp Memory: Action:2551580
+28/05/2016 2:07:55 AM: Stage-CurrApp Memory: Action:1848624
+28/05/2016 2:07:58 AM: Stage-CurrApp Memory: Action:2060128
+28/05/2016 2:08:01 AM: Stage-CurrApp Memory: Action:1815784
+28/05/2016 2:08:04 AM: Stage-CurrApp Memory: Action:1807748
+28/05/2016 2:08:07 AM: Stage-CurrApp Memory: Action:1807740
+28/05/2016 2:08:10 AM: Stage-CurrApp Memory: Action:1799528
+28/05/2016 2:08:13 AM: Stage-CurrApp Memory: Action:1799528
+28/05/2016 2:08:16 AM: Stage-CurrApp Memory: Action:1799528
+28/05/2016 2:08:19 AM: Stage-CurrApp Memory: Action:1810856
+28/05/2016 2:08:22 AM: Stage-CurrApp Memory: Action:2102060
+28/05/2016 2:08:25 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:09:39 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 762
+28/05/2016 2:09:46 AM: Stage-CurrApp Memory: Action:3885604
+28/05/2016 2:09:49 AM: Stage-CurrApp Memory: Action:2514668
+28/05/2016 2:09:52 AM: Stage-CurrApp Memory: Action:3692184
+28/05/2016 2:09:55 AM: Stage-CurrApp Memory: Action:4129636
+28/05/2016 2:09:58 AM: Stage-CurrApp Memory: Action:2522660
+28/05/2016 2:10:01 AM: Stage-CurrApp Memory: Action:4349124
+28/05/2016 2:10:04 AM: Stage-CurrApp Memory: Action:2319976
+28/05/2016 2:10:07 AM: Stage-CurrApp Memory: Action:3195108
+28/05/2016 2:10:10 AM: Stage-CurrApp Memory: Action:3607012
+28/05/2016 2:10:13 AM: Stage-CurrApp Memory: Action:1836072
+28/05/2016 2:10:16 AM: Stage-CurrApp Memory: Action:3411964
+28/05/2016 2:10:19 AM: Stage-CurrApp Memory: Action:2009820
+28/05/2016 2:10:22 AM: Stage-CurrApp Memory: Action:3094700
+28/05/2016 2:10:25 AM: Stage-CurrApp Memory: Action:3333924
+28/05/2016 2:10:28 AM: Stage-CurrApp Memory: Action:2453556
+28/05/2016 2:10:36 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:10:47 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 762
+28/05/2016 2:10:54 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:13:20 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 763
+28/05/2016 2:13:27 AM: Stage-CurrApp Memory: Action:2225952
+28/05/2016 2:13:30 AM: Stage-CurrApp Memory: Action:2896196
+28/05/2016 2:13:33 AM: Stage-CurrApp Memory: Action:3492856
+28/05/2016 2:13:36 AM: Stage-CurrApp Memory: Action:4605500
+28/05/2016 2:13:39 AM: Stage-CurrApp Memory: Action:2530968
+28/05/2016 2:13:42 AM: Stage-CurrApp Memory: Action:3574940
+28/05/2016 2:13:45 AM: Stage-CurrApp Memory: Action:3277192
+28/05/2016 2:13:48 AM: Stage-CurrApp Memory: Action:3053764
+28/05/2016 2:13:50 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:15:54 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 764
+28/05/2016 2:16:01 AM: Stage-CurrApp Memory: Action:4670592
+28/05/2016 2:16:04 AM: Stage-CurrApp Memory: Action:2761164
+28/05/2016 2:16:07 AM: Stage-CurrApp Memory: Action:1793480
+28/05/2016 2:16:10 AM: Stage-CurrApp Memory: Action:4066896
+28/05/2016 2:16:13 AM: Stage-CurrApp Memory: Action:2488892
+28/05/2016 2:16:16 AM: Stage-CurrApp Memory: Action:3574808
+28/05/2016 2:16:19 AM: Stage-CurrApp Memory: Action:2495812
+28/05/2016 2:16:21 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:16:21 AM: Stage-OnCheckGateConfigurationChanges Error:   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_Focused()
+   at DevExpress.XtraGrid.Views.Base.ColumnView.get_IsFocusedView()
+   at DevExpress.XtraGrid.Views.Base.ViewInfo.ColumnViewInfo.CalcRowStateCore(Int32 rowHandle)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.CalcRowState(GridRowInfo ri)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.UpdateRowAppearance(GridRowInfo ri, Boolean always)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.UpdateRowAppearance(GridRowInfo ri)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.CalcGroupRowHeight()
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.CalcRectsConstants()
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.CalcRects(Rectangle bounds, Boolean partital)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.Calc(Graphics g, Rectangle bounds)
+   at DevExpress.XtraGrid.Views.Base.ColumnView.DoInternalLayout()
+   at DevExpress.XtraGrid.Views.Base.ColumnView.CalculateLayout()
+   at DevExpress.XtraGrid.Views.Grid.GridView.LayoutChanged()
+   at DevExpress.XtraGrid.Views.Base.BaseView.LayoutChangedSynchronized()
+   at DevExpress.XtraGrid.Views.Base.ColumnView.OnDataController_DataSourceChanged(Object sender, EventArgs e)
+   at DevExpress.XtraGrid.Views.Grid.GridView.OnDataController_DataSourceChanged(Object sender, EventArgs e)
+   at DevExpress.Data.DataControllerBase.RaiseListSourceChanged()
+   at DevExpress.Data.DataControllerBase.OnListSourceChanged()
+   at DevExpress.Data.DataControllerBase.SetListSourceCore(IList value)
+   at DevExpress.Data.DataControllerBase.SetListSource(IList value)
+   at DevExpress.Data.CurrencyDataController.OnCurrencyManagerChanged()
+   at DevExpress.Data.CurrencyDataController.set_CurrencyManager(CurrencyManager value)
+   at DevExpress.Data.CurrencyDataController.OnDataSourceChanged()
+   at DevExpress.Data.CurrencyDataController.SetDataSource(BindingContext context, Object dataSource, String dataMember)
+   at DevExpress.XtraGrid.Views.Base.BaseView.SetDataSource(BindingContext context, Object dataSource, String dataMember)
+   at DevExpress.XtraGrid.Views.Base.ColumnView.SetDataSource(BindingContext context, Object dataSource, String dataMember)
+   at DevExpress.XtraGrid.Views.Grid.GridView.SetDataSource(BindingContext context, Object dataSource, String dataMember)
+   at DevExpress.XtraGrid.GridControl.ActivateDataSource()
+   at DevExpress.XtraGrid.GridControl.set_DataSource(Object value)
+   at SmartHumpyController.FrmMain.OnCheckGateConfigurationChanges(Object AObject) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 131
+28/05/2016 2:16:24 AM: Stage-CurrApp Memory: Action:2020424
+28/05/2016 2:16:27 AM: Stage-CurrApp Memory: Action:2481836
+28/05/2016 2:16:30 AM: Stage-CurrApp Memory: Action:2401572
+28/05/2016 2:16:33 AM: Stage-CurrApp Memory: Action:1887652
+28/05/2016 2:16:34 AM: Stage-UHF Reader Disconnected Error:Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmartHumpyController.FrmMain.Stop_RFIDReader_DIRECT() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 1103
+28/05/2016 2:16:34 AM: Stage-OnCheckGateConfigurationChanges Error:   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_Focused()
+   at DevExpress.XtraGrid.Views.Base.ColumnView.get_IsFocusedView()
+   at DevExpress.XtraGrid.Views.Base.ViewInfo.ColumnViewInfo.CalcRowStateCore(Int32 rowHandle)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.CalcRowState(GridRowInfo ri)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.UpdateRowAppearance(GridRowInfo ri, Boolean always)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.UpdateRowAppearance(GridRowInfo ri)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.CalcGroupRowHeight()
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.CalcRectsConstants()
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.CalcRects(Rectangle bounds, Boolean partital)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.Calc(Graphics g, Rectangle bounds)
+   at DevExpress.XtraGrid.Views.Base.ColumnView.DoInternalLayout()
+   at DevExpress.XtraGrid.Views.Base.ColumnView.CalculateLayout()
+   at DevExpress.XtraGrid.Views.Grid.GridView.LayoutChanged()
+   at DevExpress.XtraGrid.Views.Base.BaseView.LayoutChangedSynchronized()
+   at DevExpress.XtraGrid.Views.Base.ColumnView.OnDataController_DataSourceChanged(Object sender, EventArgs e)
+   at DevExpress.XtraGrid.Views.Grid.GridView.OnDataController_DataSourceChanged(Object sender, EventArgs e)
+   at DevExpress.Data.DataControllerBase.RaiseListSourceChanged()
+   at DevExpress.Data.DataControllerBase.OnListSourceChanged()
+   at DevExpress.Data.DataControllerBase.SetListSourceCore(IList value)
+   at DevExpress.Data.DataControllerBase.SetListSource(IList value)
+   at DevExpress.Data.CurrencyDataController.OnCurrencyManagerChanged()
+   at DevExpress.Data.CurrencyDataController.set_CurrencyManager(CurrencyManager value)
+   at DevExpress.Data.CurrencyDataController.OnDataSourceChanged()
+   at DevExpress.Data.CurrencyDataController.SetDataSource(BindingContext context, Object dataSource, String dataMember)
+   at DevExpress.XtraGrid.Views.Base.BaseView.SetDataSource(BindingContext context, Object dataSource, String dataMember)
+   at DevExpress.XtraGrid.Views.Base.ColumnView.SetDataSource(BindingContext context, Object dataSource, String dataMember)
+   at DevExpress.XtraGrid.Views.Grid.GridView.SetDataSource(BindingContext context, Object dataSource, String dataMember)
+   at DevExpress.XtraGrid.GridControl.ActivateDataSource()
+   at DevExpress.XtraGrid.GridControl.set_DataSource(Object value)
+   at SmartHumpyController.FrmMain.OnCheckGateConfigurationChanges(Object AObject) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 132
+28/05/2016 2:16:38 AM: Stage-CurrApp Memory: Action:2269716
+28/05/2016 2:16:41 AM: Stage-CurrApp Memory: Action:2460388
+28/05/2016 2:16:44 AM: Stage-CurrApp Memory: Action:1993036
+28/05/2016 2:16:47 AM: Stage-CurrApp Memory: Action:2566160
+28/05/2016 2:16:50 AM: Stage-CurrApp Memory: Action:2209736
+28/05/2016 2:16:53 AM: Stage-CurrApp Memory: Action:2729556
+28/05/2016 2:16:56 AM: Stage-CurrApp Memory: Action:2422672
+28/05/2016 2:16:59 AM: Stage-CurrApp Memory: Action:2115536
+28/05/2016 2:17:02 AM: Stage-CurrApp Memory: Action:2280452
+28/05/2016 2:17:05 AM: Stage-CurrApp Memory: Action:2061860
+28/05/2016 2:17:08 AM: Stage-CurrApp Memory: Action:2210408
+28/05/2016 2:17:11 AM: Stage-CurrApp Memory: Action:2327004
+28/05/2016 2:17:14 AM: Stage-CurrApp Memory: Action:2073520
+28/05/2016 2:17:20 AM: Stage-UHF Reader Disconnected Error:Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmartHumpyController.FrmMain.Stop_RFIDReader_DIRECT() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 1103
+28/05/2016 2:17:20 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 764
+28/05/2016 2:17:27 AM: Stage-CurrApp Memory: Action:2413148
+28/05/2016 2:17:30 AM: Stage-CurrApp Memory: Action:2623252
+28/05/2016 2:17:33 AM: Stage-CurrApp Memory: Action:3619916
+28/05/2016 2:17:36 AM: Stage-CurrApp Memory: Action:2118416
+28/05/2016 2:17:36 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:17:36 AM: Stage-OnCheckGateConfigurationChanges Error:   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_Focused()
+   at DevExpress.XtraGrid.Views.Base.ColumnView.get_IsFocusedView()
+   at DevExpress.XtraGrid.Views.Base.ViewInfo.ColumnViewInfo.CalcRowStateCore(Int32 rowHandle)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.CalcRowState(GridRowInfo ri)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.UpdateRowAppearance(GridRowInfo ri, Boolean always)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.UpdateRowAppearance(GridRowInfo ri)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.CalcGroupRowHeight()
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.CalcRectsConstants()
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.CalcRects(Rectangle bounds, Boolean partital)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.Calc(Graphics g, Rectangle bounds)
+   at DevExpress.XtraGrid.Views.Base.ColumnView.DoInternalLayout()
+   at DevExpress.XtraGrid.Views.Base.ColumnView.CalculateLayout()
+   at DevExpress.XtraGrid.Views.Grid.GridView.LayoutChanged()
+   at DevExpress.XtraGrid.Views.Base.BaseView.LayoutChangedSynchronized()
+   at DevExpress.XtraGrid.Views.Base.ColumnView.OnDataController_DataSourceChanged(Object sender, EventArgs e)
+   at DevExpress.XtraGrid.Views.Grid.GridView.OnDataController_DataSourceChanged(Object sender, EventArgs e)
+   at DevExpress.Data.DataControllerBase.RaiseListSourceChanged()
+   at DevExpress.Data.DataControllerBase.OnListSourceChanged()
+   at DevExpress.Data.DataControllerBase.SetListSourceCore(IList value)
+   at DevExpress.Data.DataControllerBase.SetListSource(IList value)
+   at DevExpress.Data.CurrencyDataController.OnCurrencyManagerChanged()
+   at DevExpress.Data.CurrencyDataController.set_CurrencyManager(CurrencyManager value)
+   at DevExpress.Data.CurrencyDataController.OnDataSourceChanged()
+   at DevExpress.Data.CurrencyDataController.SetDataSource(BindingContext context, Object dataSource, String dataMember)
+   at DevExpress.XtraGrid.Views.Base.BaseView.SetDataSource(BindingContext context, Object dataSource, String dataMember)
+   at DevExpress.XtraGrid.Views.Base.ColumnView.SetDataSource(BindingContext context, Object dataSource, String dataMember)
+   at DevExpress.XtraGrid.Views.Grid.GridView.SetDataSource(BindingContext context, Object dataSource, String dataMember)
+   at DevExpress.XtraGrid.GridControl.ActivateDataSource()
+   at DevExpress.XtraGrid.GridControl.set_DataSource(Object value)
+   at SmartHumpyController.FrmMain.OnCheckGateConfigurationChanges(Object AObject) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 131
+28/05/2016 2:17:39 AM: Stage-CurrApp Memory: Action:2100708
+28/05/2016 2:17:42 AM: Stage-CurrApp Memory: Action:2387712
+28/05/2016 2:17:45 AM: Stage-CurrApp Memory: Action:2046856
+28/05/2016 2:17:48 AM: Stage-CurrApp Memory: Action:2351816
+28/05/2016 2:17:51 AM: Stage-CurrApp Memory: Action:1969860
+28/05/2016 2:17:54 AM: Stage-CurrApp Memory: Action:1969848
+28/05/2016 2:17:54 AM: Stage-UHF Reader Disconnected Error:Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmartHumpyController.FrmMain.Stop_RFIDReader_DIRECT() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 1103
+28/05/2016 2:17:54 AM: Stage-OnCheckGateConfigurationChanges Error:   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_Focused()
+   at DevExpress.XtraGrid.Views.Base.ColumnView.get_IsFocusedView()
+   at DevExpress.XtraGrid.Views.Base.ViewInfo.ColumnViewInfo.CalcRowStateCore(Int32 rowHandle)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.CalcRowState(GridRowInfo ri)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.UpdateRowAppearance(GridRowInfo ri, Boolean always)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.UpdateRowAppearance(GridRowInfo ri)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.CalcGroupRowHeight()
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.CalcRectsConstants()
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.CalcRects(Rectangle bounds, Boolean partital)
+   at DevExpress.XtraGrid.Views.Grid.ViewInfo.GridViewInfo.Calc(Graphics g, Rectangle bounds)
+   at DevExpress.XtraGrid.Views.Base.ColumnView.DoInternalLayout()
+   at DevExpress.XtraGrid.Views.Base.ColumnView.CalculateLayout()
+   at DevExpress.XtraGrid.Views.Grid.GridView.LayoutChanged()
+   at DevExpress.XtraGrid.Views.Base.BaseView.LayoutChangedSynchronized()
+   at DevExpress.XtraGrid.Views.Base.ColumnView.OnDataController_DataSourceChanged(Object sender, EventArgs e)
+   at DevExpress.XtraGrid.Views.Grid.GridView.OnDataController_DataSourceChanged(Object sender, EventArgs e)
+   at DevExpress.Data.DataControllerBase.RaiseListSourceChanged()
+   at DevExpress.Data.DataControllerBase.OnListSourceChanged()
+   at DevExpress.Data.DataControllerBase.SetListSourceCore(IList value)
+   at DevExpress.Data.DataControllerBase.SetListSource(IList value)
+   at DevExpress.Data.CurrencyDataController.OnCurrencyManagerChanged()
+   at DevExpress.Data.CurrencyDataController.set_CurrencyManager(CurrencyManager value)
+   at DevExpress.Data.CurrencyDataController.OnDataSourceChanged()
+   at DevExpress.Data.CurrencyDataController.SetDataSource(BindingContext context, Object dataSource, String dataMember)
+   at DevExpress.XtraGrid.Views.Base.BaseView.SetDataSource(BindingContext context, Object dataSource, String dataMember)
+   at DevExpress.XtraGrid.Views.Base.ColumnView.SetDataSource(BindingContext context, Object dataSource, String dataMember)
+   at DevExpress.XtraGrid.Views.Grid.GridView.SetDataSource(BindingContext context, Object dataSource, String dataMember)
+   at DevExpress.XtraGrid.GridControl.ActivateDataSource()
+   at DevExpress.XtraGrid.GridControl.set_DataSource(Object value)
+   at SmartHumpyController.FrmMain.OnCheckGateConfigurationChanges(Object AObject) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 132
+28/05/2016 2:17:57 AM: Stage-CurrApp Memory: Action:1916600
+28/05/2016 2:18:00 AM: Stage-CurrApp Memory: Action:2109004
+28/05/2016 2:18:03 AM: Stage-CurrApp Memory: Action:2399692
+28/05/2016 2:18:06 AM: Stage-CurrApp Memory: Action:1887924
+28/05/2016 2:18:09 AM: Stage-CurrApp Memory: Action:2216996
+28/05/2016 2:18:12 AM: Stage-CurrApp Memory: Action:1927524
+28/05/2016 2:18:15 AM: Stage-CurrApp Memory: Action:2155164
+28/05/2016 2:18:18 AM: Stage-CurrApp Memory: Action:2118968
+28/05/2016 2:18:21 AM: Stage-CurrApp Memory: Action:2035356
+28/05/2016 2:18:24 AM: Stage-CurrApp Memory: Action:2252464
+28/05/2016 2:18:27 AM: Stage-CurrApp Memory: Action:2109648
+28/05/2016 2:18:30 AM: Stage-CurrApp Memory: Action:2206608
+28/05/2016 2:18:33 AM: Stage-CurrApp Memory: Action:2042064
+28/05/2016 2:18:36 AM: Stage-CurrApp Memory: Action:2042364
+28/05/2016 2:18:39 AM: Stage-CurrApp Memory: Action:1963060
+28/05/2016 2:18:42 AM: Stage-CurrApp Memory: Action:1910232
+28/05/2016 2:18:45 AM: Stage-CurrApp Memory: Action:1959836
+28/05/2016 2:18:48 AM: Stage-CurrApp Memory: Action:2135584
+28/05/2016 2:18:51 AM: Stage-CurrApp Memory: Action:2139276
+28/05/2016 2:18:54 AM: Stage-CurrApp Memory: Action:2034032
+28/05/2016 2:18:57 AM: Stage-CurrApp Memory: Action:1900048
+28/05/2016 2:19:00 AM: Stage-CurrApp Memory: Action:1959900
+28/05/2016 2:19:03 AM: Stage-CurrApp Memory: Action:2100292
+28/05/2016 2:19:03 AM: Stage-UHF Reader Disconnected Error:Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmartHumpyController.FrmMain.Stop_RFIDReader_DIRECT() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 1103
+28/05/2016 2:19:03 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 764
+28/05/2016 2:19:25 AM: Stage-CurrApp Memory: Action:1921836
+28/05/2016 2:19:27 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:24:26 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 775
+28/05/2016 2:25:21 AM: Stage-CurrApp Memory: Action:1847912
+28/05/2016 2:25:24 AM: Stage-CurrApp Memory: Action:1968444
+28/05/2016 2:25:27 AM: Stage-CurrApp Memory: Action:1704620
+28/05/2016 2:25:30 AM: Stage-CurrApp Memory: Action:1713200
+28/05/2016 2:25:33 AM: Stage-CurrApp Memory: Action:1711232
+28/05/2016 2:25:36 AM: Stage-CurrApp Memory: Action:1727872
+28/05/2016 2:25:38 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:25:38 AM: Stage-OnCheckGateConfigurationChanges Error:   at DevExpress.XtraGrid.GridControl.EndUpdate(Boolean synchronized)
+   at DevExpress.XtraGrid.GridControl.EndUpdate()
+   at SmartHumpyController.FrmMain.OnCheckGateConfigurationChanges(Object AObject) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 139
+28/05/2016 2:25:41 AM: Stage-CurrApp Memory: Action:1742520
+28/05/2016 2:25:44 AM: Stage-CurrApp Memory: Action:1747668
+28/05/2016 2:25:47 AM: Stage-CurrApp Memory: Action:1738980
+28/05/2016 2:25:50 AM: Stage-CurrApp Memory: Action:1945200
+28/05/2016 2:25:53 AM: Stage-CurrApp Memory: Action:1731108
+28/05/2016 2:25:57 AM: Stage-CurrApp Memory: Action:1729800
+28/05/2016 2:26:00 AM: Stage-CurrApp Memory: Action:1747560
+28/05/2016 2:26:03 AM: Stage-CurrApp Memory: Action:1737992
+28/05/2016 2:26:06 AM: Stage-CurrApp Memory: Action:1737992
+28/05/2016 2:26:09 AM: Stage-CurrApp Memory: Action:1739484
+28/05/2016 2:26:12 AM: Stage-CurrApp Memory: Action:1740268
+28/05/2016 2:26:15 AM: Stage-CurrApp Memory: Action:1754520
+28/05/2016 2:26:18 AM: Stage-CurrApp Memory: Action:1738136
+28/05/2016 2:26:21 AM: Stage-CurrApp Memory: Action:1747704
+28/05/2016 2:26:24 AM: Stage-CurrApp Memory: Action:1738096
+28/05/2016 2:26:27 AM: Stage-CurrApp Memory: Action:1739472
+28/05/2016 2:26:30 AM: Stage-CurrApp Memory: Action:1746288
+28/05/2016 2:26:33 AM: Stage-CurrApp Memory: Action:1729904
+28/05/2016 2:26:36 AM: Stage-CurrApp Memory: Action:1738096
+28/05/2016 2:26:39 AM: Stage-CurrApp Memory: Action:1738688
+28/05/2016 2:26:42 AM: Stage-CurrApp Memory: Action:1740064
+28/05/2016 2:26:45 AM: Stage-CurrApp Memory: Action:1746288
+28/05/2016 2:26:48 AM: Stage-CurrApp Memory: Action:1740488
+28/05/2016 2:26:51 AM: Stage-CurrApp Memory: Action:1738096
+28/05/2016 2:26:54 AM: Stage-CurrApp Memory: Action:1738096
+28/05/2016 2:26:57 AM: Stage-CurrApp Memory: Action:1740064
+28/05/2016 2:27:00 AM: Stage-CurrApp Memory: Action:1754480
+28/05/2016 2:27:03 AM: Stage-CurrApp Memory: Action:1739588
+28/05/2016 2:27:06 AM: Stage-CurrApp Memory: Action:1746880
+28/05/2016 2:27:09 AM: Stage-CurrApp Memory: Action:1738096
+28/05/2016 2:27:12 AM: Stage-CurrApp Memory: Action:1739472
+28/05/2016 2:27:15 AM: Stage-CurrApp Memory: Action:1746288
+28/05/2016 2:27:17 AM: Stage-UHF Reader Disconnected Error:Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmartHumpyController.FrmMain.Stop_RFIDReader_DIRECT() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 1114
+28/05/2016 2:27:17 AM: Stage-OnCheckGateConfigurationChanges Error:   at DevExpress.XtraGrid.GridControl.EndUpdate(Boolean synchronized)
+   at DevExpress.XtraGrid.GridControl.EndUpdate()
+   at SmartHumpyController.FrmMain.OnCheckGateConfigurationChanges(Object AObject) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 139
+28/05/2016 2:27:22 AM: Stage-CurrApp Memory: Action:1787440
+28/05/2016 2:27:31 AM: Stage-CurrApp Memory: Action:1787632
+28/05/2016 2:27:31 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 775
+28/05/2016 2:27:34 AM: Stage-CurrApp Memory: Action:1780420
+28/05/2016 2:27:37 AM: Stage-CurrApp Memory: Action:1780168
+28/05/2016 2:27:40 AM: Stage-CurrApp Memory: Action:1797084
+28/05/2016 2:27:43 AM: Stage-CurrApp Memory: Action:1780772
+28/05/2016 2:27:46 AM: Stage-CurrApp Memory: Action:1781852
+28/05/2016 2:27:49 AM: Stage-CurrApp Memory: Action:1773480
+28/05/2016 2:27:52 AM: Stage-CurrApp Memory: Action:1771988
+28/05/2016 2:27:55 AM: Stage-CurrApp Memory: Action:1797632
+28/05/2016 2:27:58 AM: Stage-CurrApp Memory: Action:1781068
+28/05/2016 2:28:01 AM: Stage-CurrApp Memory: Action:1782148
+28/05/2016 2:28:04 AM: Stage-CurrApp Memory: Action:1773776
+28/05/2016 2:28:07 AM: Stage-CurrApp Memory: Action:1782148
+28/05/2016 2:28:10 AM: Stage-CurrApp Memory: Action:1788964
+28/05/2016 2:28:13 AM: Stage-CurrApp Memory: Action:1780180
+28/05/2016 2:28:16 AM: Stage-CurrApp Memory: Action:1788372
+28/05/2016 2:28:19 AM: Stage-CurrApp Memory: Action:1780772
+28/05/2016 2:28:22 AM: Stage-CurrApp Memory: Action:1789440
+28/05/2016 2:28:25 AM: Stage-CurrApp Memory: Action:1788964
+28/05/2016 2:28:26 AM: Stage-CurrApp Memory: Action:2051512
+28/05/2016 2:28:28 AM: Stage-CurrApp Memory: Action:1773440
+28/05/2016 2:28:29 AM: Stage-CurrApp Memory: Action:2041760
+28/05/2016 2:28:31 AM: Stage-CurrApp Memory: Action:1783600
+28/05/2016 2:28:32 AM: Stage-CurrApp Memory: Action:1707444
+28/05/2016 2:28:35 AM: Stage-CurrApp Memory: Action:1710176
+28/05/2016 2:28:38 AM: Stage-CurrApp Memory: Action:2073572
+28/05/2016 2:28:39 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:28:52 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 775
+28/05/2016 2:29:59 AM: Stage-CurrApp Memory: Action:1944356
+28/05/2016 2:30:02 AM: Stage-CurrApp Memory: Action:1837372
+28/05/2016 2:30:05 AM: Stage-CurrApp Memory: Action:2367964
+28/05/2016 2:30:08 AM: Stage-CurrApp Memory: Action:1733896
+28/05/2016 2:30:11 AM: Stage-CurrApp Memory: Action:1735284
+28/05/2016 2:30:14 AM: Stage-CurrApp Memory: Action:1718708
+28/05/2016 2:30:17 AM: Stage-CurrApp Memory: Action:1717512
+28/05/2016 2:30:20 AM: Stage-CurrApp Memory: Action:1719004
+28/05/2016 2:30:22 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:30:22 AM: Stage-OnCheckGateConfigurationChanges Error:   at DevExpress.XtraGrid.GridControl.EndUpdate(Boolean synchronized)
+   at DevExpress.XtraGrid.GridControl.EndUpdate()
+   at SmartHumpyController.FrmMain.OnCheckGateConfigurationChanges(Object AObject) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 139
+28/05/2016 2:30:25 AM: Stage-CurrApp Memory: Action:1753348
+28/05/2016 2:30:28 AM: Stage-CurrApp Memory: Action:1752164
+28/05/2016 2:30:31 AM: Stage-CurrApp Memory: Action:1794500
+28/05/2016 2:30:34 AM: Stage-CurrApp Memory: Action:1753388
+28/05/2016 2:30:37 AM: Stage-CurrApp Memory: Action:1752796
+28/05/2016 2:30:40 AM: Stage-CurrApp Memory: Action:1754248
+28/05/2016 2:30:43 AM: Stage-CurrApp Memory: Action:1752756
+28/05/2016 2:30:46 AM: Stage-CurrApp Memory: Action:1762028
+28/05/2016 2:30:49 AM: Stage-CurrApp Memory: Action:1753656
+28/05/2016 2:30:52 AM: Stage-CurrApp Memory: Action:1752756
+28/05/2016 2:30:55 AM: Stage-CurrApp Memory: Action:1760948
+28/05/2016 2:30:58 AM: Stage-CurrApp Memory: Action:1744564
+28/05/2016 2:31:01 AM: Stage-CurrApp Memory: Action:1762336
+28/05/2016 2:31:04 AM: Stage-CurrApp Memory: Action:1753324
+28/05/2016 2:31:07 AM: Stage-CurrApp Memory: Action:1755612
+28/05/2016 2:31:10 AM: Stage-CurrApp Memory: Action:1752732
+28/05/2016 2:31:15 AM: Stage-UHF Reader Disconnected Error:Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmartHumpyController.FrmMain.Stop_RFIDReader_DIRECT() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 1114
+28/05/2016 2:31:31 AM: Stage-OnCheckGateConfigurationChanges Error:   at DevExpress.XtraGrid.GridControl.EndUpdate(Boolean synchronized)
+   at DevExpress.XtraGrid.GridControl.EndUpdate()
+   at SmartHumpyController.FrmMain.OnCheckGateConfigurationChanges(Object AObject) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 139
+28/05/2016 2:31:34 AM: Stage-UHF Reader Disconnected Error:Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmartHumpyController.FrmMain.Stop_RFIDReader_DIRECT() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 1114
+28/05/2016 2:32:43 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 769
+28/05/2016 2:33:07 AM: Stage-CurrApp Memory: Action:2852360
+28/05/2016 2:33:10 AM: Stage-CurrApp Memory: Action:1828024
+28/05/2016 2:33:13 AM: Stage-CurrApp Memory: Action:1741148
+28/05/2016 2:33:16 AM: Stage-CurrApp Memory: Action:1758356
+28/05/2016 2:33:19 AM: Stage-CurrApp Memory: Action:1725400
+28/05/2016 2:33:24 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:33:50 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 769
+28/05/2016 2:34:24 AM: Stage-CurrApp Memory: Action:1800436
+28/05/2016 2:34:40 AM: Stage-CurrApp Memory: Action:2555984
+28/05/2016 2:34:43 AM: Stage-CurrApp Memory: Action:2503648
+28/05/2016 2:34:46 AM: Stage-CurrApp Memory: Action:2312812
+28/05/2016 2:34:49 AM: Stage-CurrApp Memory: Action:2990072
+28/05/2016 2:34:52 AM: Stage-CurrApp Memory: Action:2275604
+28/05/2016 2:34:55 AM: Stage-CurrApp Memory: Action:2924868
+28/05/2016 2:34:58 AM: Stage-CurrApp Memory: Action:2503108
+28/05/2016 2:35:01 AM: Stage-CurrApp Memory: Action:2146860
+28/05/2016 2:35:04 AM: Stage-CurrApp Memory: Action:3119276
+28/05/2016 2:35:07 AM: Stage-CurrApp Memory: Action:2431228
+28/05/2016 2:35:10 AM: Stage-CurrApp Memory: Action:2836932
+28/05/2016 2:35:21 AM: Stage-CurrApp Memory: Action:2090336
+28/05/2016 2:35:24 AM: Stage-CurrApp Memory: Action:2400528
+28/05/2016 2:35:27 AM: Stage-CurrApp Memory: Action:2717576
+28/05/2016 2:35:30 AM: Stage-CurrApp Memory: Action:2441412
+28/05/2016 2:35:33 AM: Stage-CurrApp Memory: Action:2772104
+28/05/2016 2:35:36 AM: Stage-CurrApp Memory: Action:3452136
+28/05/2016 2:35:39 AM: Stage-CurrApp Memory: Action:2180672
+28/05/2016 2:35:42 AM: Stage-CurrApp Memory: Action:2099640
+28/05/2016 2:35:45 AM: Stage-CurrApp Memory: Action:4057168
+28/05/2016 2:35:51 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:36:28 AM: Stage-OnCheckGateConfigurationChanges Error:   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Form.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Form.set_Text(String value)
+   at SmartHumpyController.FrmMain.Initilization_Header() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 215
+   at SmartHumpyController.FrmMain.System_Initialization_Data() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 195
+   at SmartHumpyController.FrmMain.OnCheckGateConfigurationChanges(Object AObject) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 139
+28/05/2016 2:36:31 AM: Stage-CurrApp Memory: Action:1869652
+28/05/2016 2:36:34 AM: Stage-CurrApp Memory: Action:1924388
+28/05/2016 2:36:36 AM: Stage-UHF Reader Disconnected Error:Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmartHumpyController.FrmMain.Stop_RFIDReader_DIRECT() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 1108
+28/05/2016 2:37:14 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 770
+28/05/2016 2:37:24 AM: Stage-CurrApp Memory: Action:2805796
+28/05/2016 2:37:27 AM: Stage-CurrApp Memory: Action:3893140
+28/05/2016 2:37:30 AM: Stage-CurrApp Memory: Action:2659292
+28/05/2016 2:37:33 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:37:38 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 770
+28/05/2016 2:38:06 AM: Stage-CurrApp Memory: Action:2050500
+28/05/2016 2:38:09 AM: Stage-CurrApp Memory: Action:1806528
+28/05/2016 2:38:12 AM: Stage-CurrApp Memory: Action:1782192
+28/05/2016 2:38:14 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:38:19 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 770
+28/05/2016 2:38:30 AM: Stage-CurrApp Memory: Action:2585556
+28/05/2016 2:38:33 AM: Stage-CurrApp Memory: Action:2302620
+28/05/2016 2:38:36 AM: Stage-CurrApp Memory: Action:2076944
+28/05/2016 2:38:39 AM: Stage-CurrApp Memory: Action:2979408
+28/05/2016 2:38:42 AM: Stage-CurrApp Memory: Action:2864120
+28/05/2016 2:38:45 AM: Stage-CurrApp Memory: Action:2538908
+28/05/2016 2:38:48 AM: Stage-CurrApp Memory: Action:1832704
+28/05/2016 2:38:51 AM: Stage-CurrApp Memory: Action:2101456
+28/05/2016 2:38:58 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:39:00 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 770
+28/05/2016 2:39:24 AM: Stage-CurrApp Memory: Action:1975384
+28/05/2016 2:39:29 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:40:01 AM: Stage-OnCheckGateConfigurationChanges Error:   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Form.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Form.set_Text(String value)
+   at SmartHumpyController.FrmMain.Initilization_Header() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 216
+   at SmartHumpyController.FrmMain.System_Initialization_Data() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 196
+   at SmartHumpyController.FrmMain.OnCheckGateConfigurationChanges(Object AObject) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 140
+28/05/2016 2:40:04 AM: Stage-CurrApp Memory: Action:2182596
+28/05/2016 2:40:05 AM: Stage-UHF Reader Disconnected Error:Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmartHumpyController.FrmMain.Stop_RFIDReader_DIRECT() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 1109
+28/05/2016 2:41:09 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 773
+28/05/2016 2:41:16 AM: Stage-CurrApp Memory: Action:4053900
+28/05/2016 2:41:19 AM: Stage-CurrApp Memory: Action:2927040
+28/05/2016 2:41:22 AM: Stage-CurrApp Memory: Action:4327516
+28/05/2016 2:41:25 AM: Stage-CurrApp Memory: Action:2749948
+28/05/2016 2:41:28 AM: Stage-CurrApp Memory: Action:2663884
+28/05/2016 2:41:31 AM: Stage-CurrApp Memory: Action:2161660
+28/05/2016 2:41:34 AM: Stage-CurrApp Memory: Action:3028316
+28/05/2016 2:41:35 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:41:37 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 773
+28/05/2016 2:41:44 AM: Stage-CurrApp Memory: Action:2634816
+28/05/2016 2:41:47 AM: Stage-CurrApp Memory: Action:2870796
+28/05/2016 2:41:50 AM: Stage-CurrApp Memory: Action:2551560
+28/05/2016 2:41:53 AM: Stage-CurrApp Memory: Action:2029996
+28/05/2016 2:41:54 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:41:56 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 773
+28/05/2016 2:42:20 AM: Stage-CurrApp Memory: Action:1933048
+28/05/2016 2:42:21 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:42:23 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 773
+28/05/2016 2:42:30 AM: Stage-CurrApp Memory: Action:2050992
+28/05/2016 2:42:33 AM: Stage-CurrApp Memory: Action:2296140
+28/05/2016 2:42:36 AM: Stage-CurrApp Memory: Action:2335448
+28/05/2016 2:42:39 AM: Stage-CurrApp Memory: Action:2064192
+28/05/2016 2:42:40 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:42:42 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 773
+28/05/2016 2:42:49 AM: Stage-CurrApp Memory: Action:3014352
+28/05/2016 2:42:52 AM: Stage-CurrApp Memory: Action:1842984
+28/05/2016 2:42:54 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:45:46 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 773
+28/05/2016 2:45:53 AM: Stage-CurrApp Memory: Action:4239856
+28/05/2016 2:45:56 AM: Stage-CurrApp Memory: Action:3170868
+28/05/2016 2:45:57 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 11:58:36 AM: Stage-UHF Reader Disconnected Error:Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmartHumpyController.FrmMain.Stop_RFIDReader_DIRECT() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 1112
+28/05/2016 12:19:54 PM: Stage-UHF Reader Disconnected Error:Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmartHumpyController.FrmMain.Stop_RFIDReader_DIRECT() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 1119
+28/05/2016 12:21:11 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 780
+28/05/2016 12:21:18 PM: Stage-CurrApp Memory: Action:4132328
+28/05/2016 12:21:21 PM: Stage-CurrApp Memory: Action:2566316
+28/05/2016 12:21:24 PM: Stage-CurrApp Memory: Action:4031996
+28/05/2016 12:21:27 PM: Stage-CurrApp Memory: Action:4496276
+28/05/2016 12:21:30 PM: Stage-CurrApp Memory: Action:2343548
+28/05/2016 12:21:33 PM: Stage-CurrApp Memory: Action:4144632
+28/05/2016 12:21:36 PM: Stage-CurrApp Memory: Action:3994184
+28/05/2016 12:21:37 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 12:30:22 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 782
+28/05/2016 12:30:29 PM: Stage-CurrApp Memory: Action:4548392
+28/05/2016 12:30:32 PM: Stage-CurrApp Memory: Action:2675656
+28/05/2016 12:30:35 PM: Stage-CurrApp Memory: Action:3918744
+28/05/2016 12:30:38 PM: Stage-CurrApp Memory: Action:4241116
+28/05/2016 12:30:41 PM: Stage-CurrApp Memory: Action:2763536
+28/05/2016 12:30:43 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 12:31:34 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 787
+28/05/2016 12:31:41 PM: Stage-CurrApp Memory: Action:4148904
+28/05/2016 12:31:45 PM: Stage-CurrApp Memory: Action:2388744
+28/05/2016 12:31:48 PM: Stage-CurrApp Memory: Action:3476740
+28/05/2016 12:31:50 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 12:39:14 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 789
+28/05/2016 12:39:21 PM: Stage-CurrApp Memory: Action:4694748
+28/05/2016 12:39:24 PM: Stage-CurrApp Memory: Action:3062652
+28/05/2016 12:39:27 PM: Stage-CurrApp Memory: Action:3967092
+28/05/2016 12:39:30 PM: Stage-CurrApp Memory: Action:4098404
+28/05/2016 12:39:33 PM: Stage-CurrApp Memory: Action:2134060
+28/05/2016 12:39:36 PM: Stage-CurrApp Memory: Action:4025500
+28/05/2016 12:39:37 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 12:52:18 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 821
+28/05/2016 12:52:26 PM: Stage-CurrApp Memory: Action:4577016
+28/05/2016 12:52:29 PM: Stage-CurrApp Memory: Action:2599308
+28/05/2016 12:52:31 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 1:20:03 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 821
+28/05/2016 1:20:10 PM: Stage-CurrApp Memory: Action:4609636
+28/05/2016 1:20:13 PM: Stage-CurrApp Memory: Action:2608856
+28/05/2016 1:20:16 PM: Stage-CurrApp Memory: Action:5066132
+28/05/2016 1:20:19 PM: Stage-CurrApp Memory: Action:3902756
+28/05/2016 1:20:21 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 1:26:41 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 823
+28/05/2016 1:26:49 PM: Stage-CurrApp Memory: Action:4480060
+28/05/2016 1:26:52 PM: Stage-CurrApp Memory: Action:2783084
+28/05/2016 1:26:55 PM: Stage-CurrApp Memory: Action:3724428
+28/05/2016 1:26:58 PM: Stage-CurrApp Memory: Action:4177256
+28/05/2016 1:27:01 PM: Stage-CurrApp Memory: Action:2774060
+28/05/2016 1:27:04 PM: Stage-CurrApp Memory: Action:3875332
+28/05/2016 1:27:07 PM: Stage-CurrApp Memory: Action:3669296
+28/05/2016 1:27:10 PM: Stage-CurrApp Memory: Action:2689504
+28/05/2016 1:27:13 PM: Stage-CurrApp Memory: Action:2899716
+28/05/2016 1:27:16 PM: Stage-CurrApp Memory: Action:4241616
+28/05/2016 1:27:20 PM: Stage-CurrApp Memory: Action:3947232
+28/05/2016 1:27:24 PM: Stage-CurrApp Memory: Action:3023476
+28/05/2016 1:27:27 PM: Stage-CurrApp Memory: Action:2176448
+28/05/2016 1:27:34 PM: Stage-CurrApp Memory: Action:2057156
+28/05/2016 1:27:38 PM: Stage-CurrApp Memory: Action:2761852
+28/05/2016 1:27:41 PM: Stage-CurrApp Memory: Action:3650092
+28/05/2016 1:27:44 PM: Stage-CurrApp Memory: Action:2994744
+28/05/2016 1:27:47 PM: Stage-CurrApp Memory: Action:3890908
+28/05/2016 1:27:50 PM: Stage-CurrApp Memory: Action:2861556
+28/05/2016 1:27:50 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 1:28:40 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 823
+28/05/2016 1:28:47 PM: Stage-CurrApp Memory: Action:4298560
+28/05/2016 1:28:50 PM: Stage-CurrApp Memory: Action:2369940
+28/05/2016 1:28:53 PM: Stage-CurrApp Memory: Action:3339360
+28/05/2016 1:28:56 PM: Stage-CurrApp Memory: Action:4075988
+28/05/2016 1:29:01 PM: Stage-CurrApp Memory: Action:4061408
+28/05/2016 1:29:09 PM: Stage-CurrApp Memory: Action:3712728
+28/05/2016 1:29:12 PM: Stage-CurrApp Memory: Action:3243244
+28/05/2016 1:29:15 PM: Stage-CurrApp Memory: Action:2692224
+28/05/2016 1:29:18 PM: Stage-CurrApp Memory: Action:2732908
+28/05/2016 1:29:21 PM: Stage-CurrApp Memory: Action:3144296
+28/05/2016 1:29:24 PM: Stage-CurrApp Memory: Action:3733380
+28/05/2016 1:29:27 PM: Stage-CurrApp Memory: Action:4282904
+28/05/2016 1:29:28 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 1:37:39 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 823
+28/05/2016 1:37:46 PM: Stage-CurrApp Memory: Action:3648400
+28/05/2016 1:37:49 PM: Stage-CurrApp Memory: Action:4012404
+28/05/2016 1:37:52 PM: Stage-CurrApp Memory: Action:2621708
+28/05/2016 1:37:55 PM: Stage-CurrApp Memory: Action:3783000
+28/05/2016 1:37:58 PM: Stage-CurrApp Memory: Action:2710800
+28/05/2016 1:38:01 PM: Stage-CurrApp Memory: Action:4069208
+28/05/2016 1:38:04 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+28/05/2016 2:32:29 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 823
+28/05/2016 2:32:36 PM: Stage-CurrApp Memory: Action:3752748
+28/05/2016 2:32:39 PM: Stage-CurrApp Memory: Action:2480436
+28/05/2016 2:32:42 PM: Stage-CurrApp Memory: Action:2338780
+28/05/2016 2:32:45 PM: Stage-CurrApp Memory: Action:2496568
+28/05/2016 2:32:46 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+29/05/2016 4:58:55 AM: Stage-UHF Reader Disconnected Error:Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmartHumpyController.FrmMain.Stop_RFIDReader_DIRECT() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 1238
+29/05/2016 5:00:25 AM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 894
+29/05/2016 5:00:33 AM: Stage-CurrApp Memory: Action:4338444
+29/05/2016 5:00:36 AM: Stage-CurrApp Memory: Action:2899024
+29/05/2016 5:00:39 AM: Stage-CurrApp Memory: Action:4176356
+29/05/2016 5:00:39 AM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+30/05/2016 11:19:37 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 894
+30/05/2016 11:19:47 PM: Stage-CurrApp Memory: Action:3862072
+30/05/2016 11:19:50 PM: Stage-CurrApp Memory: Action:2032592
+30/05/2016 11:19:53 PM: Stage-CurrApp Memory: Action:1790272
+30/05/2016 11:19:56 PM: Stage-CurrApp Memory: Action:3874408
+30/05/2016 11:19:59 PM: Stage-CurrApp Memory: Action:3714112
+30/05/2016 11:20:02 PM: Stage-CurrApp Memory: Action:3649136
+30/05/2016 11:20:05 PM: Stage-CurrApp Memory: Action:3284284
+30/05/2016 11:20:08 PM: Stage-CurrApp Memory: Action:3894828
+30/05/2016 11:20:11 PM: Stage-CurrApp Memory: Action:2053172
+30/05/2016 11:20:14 PM: Stage-CurrApp Memory: Action:3283768
+30/05/2016 11:20:17 PM: Stage-CurrApp Memory: Action:3894868
+30/05/2016 11:20:20 PM: Stage-CurrApp Memory: Action:3645368
+30/05/2016 11:20:23 PM: Stage-CurrApp Memory: Action:2044712
+30/05/2016 11:20:26 PM: Stage-CurrApp Memory: Action:3285268
+30/05/2016 11:20:29 PM: Stage-CurrApp Memory: Action:3699048
+30/05/2016 11:20:32 PM: Stage-CurrApp Memory: Action:2507524
+30/05/2016 11:20:35 PM: Stage-CurrApp Memory: Action:3513928
+30/05/2016 11:20:38 PM: Stage-CurrApp Memory: Action:3690188
+30/05/2016 11:20:41 PM: Stage-CurrApp Memory: Action:3511592
+30/05/2016 11:20:44 PM: Stage-CurrApp Memory: Action:3284484
+30/05/2016 11:20:47 PM: Stage-CurrApp Memory: Action:3282812
+30/05/2016 11:20:50 PM: Stage-CurrApp Memory: Action:3696684
+30/05/2016 11:20:53 PM: Stage-CurrApp Memory: Action:2288668
+30/05/2016 11:20:56 PM: Stage-CurrApp Memory: Action:3899096
+30/05/2016 11:20:59 PM: Stage-CurrApp Memory: Action:3632748
+30/05/2016 11:21:03 PM: Stage-CurrApp Memory: Action:3758420
+30/05/2016 11:21:06 PM: Stage-CurrApp Memory: Action:3739148
+30/05/2016 11:21:09 PM: Stage-CurrApp Memory: Action:3514412
+30/05/2016 11:21:12 PM: Stage-CurrApp Memory: Action:3643856
+30/05/2016 11:21:15 PM: Stage-CurrApp Memory: Action:2451188
+30/05/2016 11:21:18 PM: Stage-CurrApp Memory: Action:3682228
+30/05/2016 11:21:21 PM: Stage-CurrApp Memory: Action:3906720
+30/05/2016 11:21:24 PM: Stage-CurrApp Memory: Action:2705968
+30/05/2016 11:21:27 PM: Stage-CurrApp Memory: Action:3739684
+30/05/2016 11:21:30 PM: Stage-CurrApp Memory: Action:3220428
+30/05/2016 11:21:36 PM: Stage-CurrApp Memory: Action:2430572
+30/05/2016 11:21:39 PM: Stage-CurrApp Memory: Action:3570984
+30/05/2016 11:21:42 PM: Stage-CurrApp Memory: Action:3573408
+30/05/2016 11:21:45 PM: Stage-CurrApp Memory: Action:3223732
+30/05/2016 11:21:48 PM: Stage-CurrApp Memory: Action:3750252
+30/05/2016 11:21:51 PM: Stage-CurrApp Memory: Action:3218136
+30/05/2016 11:21:54 PM: Stage-CurrApp Memory: Action:2349284
+30/05/2016 11:21:57 PM: Stage-CurrApp Memory: Action:2612224
+30/05/2016 11:22:00 PM: Stage-CurrApp Memory: Action:3579272
+30/05/2016 11:22:03 PM: Stage-CurrApp Memory: Action:3530472
+30/05/2016 11:22:06 PM: Stage-CurrApp Memory: Action:3451944
+30/05/2016 11:22:09 PM: Stage-CurrApp Memory: Action:3616316
+30/05/2016 11:22:12 PM: Stage-CurrApp Memory: Action:3443444
+30/05/2016 11:22:15 PM: Stage-CurrApp Memory: Action:3284560
+30/05/2016 11:22:18 PM: Stage-CurrApp Memory: Action:3382548
+30/05/2016 11:22:21 PM: Stage-CurrApp Memory: Action:3834008
+30/05/2016 11:22:24 PM: Stage-CurrApp Memory: Action:2409904
+30/05/2016 11:22:27 PM: Stage-CurrApp Memory: Action:3012980
+30/05/2016 11:22:30 PM: Stage-CurrApp Memory: Action:3079948
+30/05/2016 11:22:33 PM: Stage-CurrApp Memory: Action:2928180
+30/05/2016 11:22:36 PM: Stage-CurrApp Memory: Action:2980812
+30/05/2016 11:22:39 PM: Stage-CurrApp Memory: Action:2369532
+30/05/2016 11:22:42 PM: Stage-CurrApp Memory: Action:3270836
+30/05/2016 11:22:45 PM: Stage-CurrApp Memory: Action:3148156
+30/05/2016 11:22:48 PM: Stage-CurrApp Memory: Action:3214768
+30/05/2016 11:22:51 PM: Stage-CurrApp Memory: Action:3316740
+30/05/2016 11:22:54 PM: Stage-CurrApp Memory: Action:2551040
+30/05/2016 11:22:57 PM: Stage-CurrApp Memory: Action:3402684
+30/05/2016 11:23:00 PM: Stage-CurrApp Memory: Action:2475584
+30/05/2016 11:23:03 PM: Stage-CurrApp Memory: Action:3362144
+30/05/2016 11:23:06 PM: Stage-CurrApp Memory: Action:3389676
+30/05/2016 11:23:09 PM: Stage-CurrApp Memory: Action:3495960
+30/05/2016 11:23:12 PM: Stage-CurrApp Memory: Action:3615788
+30/05/2016 11:23:15 PM: Stage-CurrApp Memory: Action:3374264
+30/05/2016 11:23:18 PM: Stage-CurrApp Memory: Action:3614684
+30/05/2016 11:23:21 PM: Stage-CurrApp Memory: Action:2840332
+30/05/2016 11:23:24 PM: Stage-CurrApp Memory: Action:2912140
+30/05/2016 11:23:27 PM: Stage-CurrApp Memory: Action:3672068
+30/05/2016 11:23:30 PM: Stage-CurrApp Memory: Action:3194284
+30/05/2016 11:23:33 PM: Stage-CurrApp Memory: Action:3309276
+30/05/2016 11:23:36 PM: Stage-CurrApp Memory: Action:3079660
+30/05/2016 11:23:39 PM: Stage-CurrApp Memory: Action:3324420
+30/05/2016 11:23:42 PM: Stage-CurrApp Memory: Action:2605340
+30/05/2016 11:23:45 PM: Stage-CurrApp Memory: Action:2882532
+30/05/2016 11:23:48 PM: Stage-CurrApp Memory: Action:3022108
+30/05/2016 11:23:51 PM: Stage-CurrApp Memory: Action:3353732
+30/05/2016 11:23:53 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected
+1/06/2016 8:14:36 PM: Stage-HF-Connect Error:System.IO.IOException: The port 'COM18' does not exist.
+   at SmartHumpyController.HFReaderSerial.OpenPort() in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\HFReaderSerial.cs:line 89
+   at SmartHumpyController.FrmMain.Initialization_HFReader(HumpyDetail aHD) in C:\JasperWorkingField\AMMO\AMMO Smart Humpy\SmartHumpyController\SmartHumpyController\FrmMain.cs:line 894
+1/06/2016 8:14:46 PM: Stage-CurrApp Memory: Action:3484548
+1/06/2016 8:14:49 PM: Stage-CurrApp Memory: Action:2087488
+1/06/2016 8:14:52 PM: Stage-CurrApp Memory: Action:1913856
+1/06/2016 8:14:55 PM: Stage-CurrApp Memory: Action:2981056
+1/06/2016 8:14:58 PM: Stage-CurrApp Memory: Action:3022176
+1/06/2016 8:15:01 PM: Stage-CurrApp Memory: Action:3185564
+1/06/2016 8:15:04 PM: Stage-CurrApp Memory: Action:2847772
+1/06/2016 8:15:07 PM: Stage-CurrApp Memory: Action:3382684
+1/06/2016 8:15:10 PM: Stage-CurrApp Memory: Action:2135992
+1/06/2016 8:15:13 PM: Stage-CurrApp Memory: Action:2927584
+1/06/2016 8:15:16 PM: Stage-CurrApp Memory: Action:3269456
+1/06/2016 8:15:19 PM: Stage-CurrApp Memory: Action:3069756
+1/06/2016 8:15:22 PM: Stage-CurrApp Memory: Action:1945972
+1/06/2016 8:15:25 PM: Stage-CurrApp Memory: Action:2855756
+1/06/2016 8:15:28 PM: Stage-CurrApp Memory: Action:2996776
+1/06/2016 8:15:31 PM: Stage-CurrApp Memory: Action:2119240
+1/06/2016 8:15:34 PM: Stage-CurrApp Memory: Action:3021820
+1/06/2016 8:15:37 PM: Stage-CurrApp Memory: Action:3165192
+1/06/2016 8:15:40 PM: Stage-CurrApp Memory: Action:3062764
+1/06/2016 8:15:43 PM: Stage-CurrApp Memory: Action:2672776
+1/06/2016 8:15:46 PM: Stage-CurrApp Memory: Action:2671996
+1/06/2016 8:15:49 PM: Stage-CurrApp Memory: Action:3176900
+1/06/2016 8:15:52 PM: Stage-CurrApp Memory: Action:2074096
+1/06/2016 8:15:55 PM: Stage-CurrApp Memory: Action:3169736
+1/06/2016 8:15:58 PM: Stage-CurrApp Memory: Action:3163948
+1/06/2016 8:16:01 PM: Stage-CurrApp Memory: Action:2893336
+1/06/2016 8:16:04 PM: Stage-CurrApp Memory: Action:2877716
+1/06/2016 8:16:08 PM: Stage-CurrApp Memory: Action:2864568
+1/06/2016 8:16:11 PM: Stage-CurrApp Memory: Action:3165328
+1/06/2016 8:16:14 PM: Stage-CurrApp Memory: Action:2263240
+1/06/2016 8:16:17 PM: Stage-CurrApp Memory: Action:3176504
+1/06/2016 8:16:20 PM: Stage-CurrApp Memory: Action:3177380
+1/06/2016 8:16:23 PM: Stage-CurrApp Memory: Action:2137132
+1/06/2016 8:16:26 PM: Stage-CurrApp Memory: Action:3177788
+1/06/2016 8:16:29 PM: Stage-CurrApp Memory: Action:2856040
+1/06/2016 8:16:32 PM: Stage-CurrApp Memory: Action:3185448
+1/06/2016 8:16:35 PM: Stage-CurrApp Memory: Action:3023036
+1/06/2016 8:16:36 PM: Stage-UHF Reader Disconnected Error:Reader is not Connected

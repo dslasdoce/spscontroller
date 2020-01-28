@@ -1,0 +1,5 @@
+v1.0.9.5
+-Removed the CR remover
+MISC Card Read returns CR as well, the previous version removed the CR.
+BUT the new HQ Registration and Sync kept the CR caused the mismatch issue.
+-HF/UHF Reader Connection indicator
